@@ -196,7 +196,10 @@ For Matrix Factorization, you can use rustlearn.
 
 ## Nearest Neighbor Search
 
+ANN search (approximate nearest neighbor)
+
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
+- [rust-cv/hnsw](https://github.com/rust-cv/hnsw) - HNSW ANN from the paper "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs"
 - [granne/granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search
 - [kornelski/vpsearch](https://github.com/kornelski/vpsearch) - C library for finding nearest (most similar) element in a set
 - [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and lookup
