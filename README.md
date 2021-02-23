@@ -220,7 +220,7 @@ For Matrix Factorization, you can use rustlearn.
 
 Thanks for all the projects.
 
-This document is based on a blog in Japanese [Rustで扱える機械学習関連のクレート2021](https://vaaaaaanquish.hatenablog.com/entry/2021/01/23/233113?_ga=2.159361534.596250292.1613160100-1206398386.1613160100#--Natural-Language-Processing--).
+This document is based on a blog in Japanese [Rustで扱える機械学習関連のクレート2021](https://vaaaaaanquish.hatenablog.com/entry/2021/01/23/233113).
 
 Please PR. Thanks.
 
