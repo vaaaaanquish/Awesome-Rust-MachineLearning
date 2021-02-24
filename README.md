@@ -22,8 +22,9 @@ It's a list with the major items at the top.
     - [Full Text Search](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#full-text-search)
     - [Nearest Neighbor Search](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#nearest-neighbor-search)
 - [Reinforcement Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#reinforcement-learning)
-- [Supervised Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#supervised-learning)
-- [Unsupervised Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#unsupervised-learning)
+- [Supervised Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#supervised-learning-model)
+- [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#unsupervised-learning--clustering-model)
+- [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#evolutionary-algorithm)
 - [Thanks](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#thanks)
 - [Reference & Nearby Projects](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#reference--nearby-projects)
 
