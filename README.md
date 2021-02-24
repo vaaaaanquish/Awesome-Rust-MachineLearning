@@ -22,7 +22,8 @@ It's a list with the major items at the top.
     - [Full Text Search](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#full-text-search)
     - [Nearest Neighbor Search](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#nearest-neighbor-search)
 - [Reinforcement Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#reinforcement-learning)
-- [Unsupervised learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#unsupervised-learning)
+- [Supervised Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#supervised-learning)
+- [Unsupervised Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#unsupervised-learning)
 - [Thanks](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#thanks)
 - [Reference & Nearby Projects](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#reference--nearby-projects)
 
@@ -150,6 +151,7 @@ catboost is for predict only.
 - [davechallis/rust-xgboost](https://github.com/davechallis/rust-xgboost) - Rust bindings for XGBoost.
 - [vaaaaanquish/lightgbm-rs](https://github.com/vaaaaanquish/lightgbm-rs) - LightGBM Rust binding
 - [catboost/catboost](https://github.com/catboost/catboost/tree/master/catboost/rust-package) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks
+- [Entscheider/stamm](https://github.com/entscheider/stamm) - Generic decision trees for rust
 
 
 # Deep Neaural Network
@@ -160,7 +162,9 @@ Tensorflow or Pythorch are the most common.
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
+- [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust
 - [oliverfunk/darknet-rs](https://github.com/oliverfunk/darknet-rs) - Rust bindings for darknet
+- [jakelee8/mxnet-rs](https://github.com/jakelee8/mxnet-rs) - mxnet for Rust
 - [primitiv/primitiv-rust](https://github.com/primitiv/primitiv-rust) - Rust binding of primitiv
 - [chantera/dynet-rs](https://github.com/chantera/dynet-rs) - The Rust Language Bindings for DyNet
 
@@ -172,6 +176,7 @@ Tensorflow or Pythorch are the most common.
 - [messense/fasttext-rs](https://github.com/messense/fasttext-rs) - fastText Rust binding
 - [mklf/word2vec-rs](https://github.com/mklf/word2vec-rs) - pure rust implemention of word2vec
 - [DimaKudosh/word2vec](https://github.com/DimaKudosh/word2vec) - Rust interface to word2vec.
+- [lloydmeta/sloword2vec-rs](https://github.com/lloydmeta/sloword2vec-rs) - A naive (read: slow) implementation of Word2Vec. Uses BLAS behind the scenes for speed.
 
 
 # Recommendation
@@ -180,6 +185,7 @@ For Matrix Factorization, you can use rustlearn.
 
 - [jackgerrits/vowpalwabbit-rs](https://github.com/jackgerrits/vowpalwabbit-rs) - 🦀🐇 Rusty VowpalWabbit
 - [hja22/rucommender](https://github.com/hja22/rucommender) - Rust implementation of user-based collaborative filtering
+- [maciejkula/sbr-rs](https://github.com/maciejkula/sbr-rs) - Deep recommender systems for Rust
 - [chrisvittal/quackin](https://github.com/chrisvittal/quackin) - A recommender systems framework for Rust
 - [snd/onmf](https://github.com/snd/onmf) - fast rust implementation of online nonnegative matrix factorization as laid out in the paper "detect and track latent factors with online nonnegative matrix factorization"
 
@@ -189,6 +195,7 @@ For Matrix Factorization, you can use rustlearn.
 ## Full Text Search
 
 - [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
+- [neuml/txtai.rs](https://github.com/neuml/txtai.rs) - AI-powered search engine for Rust
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
@@ -214,9 +221,22 @@ ANN search (approximate nearest neighbor)
 - [MrRobb/gym-rs](https://github.com/mrrobb/gym-rs) - OpenAI Gym bindings for Rust
 
 
-# Unsupervised learning
+# Supervised Learning Model
 
+- [shadeMe/liblinear-rs](https://github.com/shademe/liblinear-rs) - Rust language bindings for the LIBLINEAR C/C++ library.
+- [messense/crfsuite-rs](https://github.com/messense/crfsuite-rs) - Rust binding to crfsuite
+
+
+# Unsupervised Learning & Clustering Model
+
+- [frjnn/bhtsne](https://github.com/frjnn/bhtsne) - Barnes-Hut t-SNE implementation written in Rust.
 - [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) - Rust library for Self Organising Maps (SOM).
+- [kno10/rust-kmedoids](https://github.com/kno10/rust-kmedoids) - k-Medoids clustering in Rust with the FasterPAM algorithm
+
+
+# Evolutionary Algorithm
+
+- [martinus/differential-evolution-rs](https://github.com/martinus/differential-evolution-rs) - Generic Differential Evolution for Rust
 
 
 
