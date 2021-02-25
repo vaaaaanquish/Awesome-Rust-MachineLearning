@@ -15,7 +15,7 @@ It's a list with the major items at the top.
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
 - [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting)
-- [Deep Neaural Network](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#deep-neaural-network)
+- [Deep Neural Network](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#deep-neural-network)
 - [Natural Language Processing (model)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-model)
 - [Recommendation](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#recommendation)
 - [Information Retrieval](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#information-retrieval)
@@ -156,7 +156,7 @@ catboost is for predict only.
 - [Entscheider/stamm](https://github.com/entscheider/stamm) - Generic decision trees for rust
 
 
-# Deep Neaural Network
+# Deep Neural Network
 
 Tensorflow or Pythorch are the most common.
 `tch-rs` also includes torch vision.
