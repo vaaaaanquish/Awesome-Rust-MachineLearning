@@ -7,7 +7,7 @@ It's a list with the major items at the top.
 # ToC
 
 - [Undercarriage](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#undercarriage)
-    - [Jupter Notebook](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#jupter-notebook)
+    - [Jupyter Notebook](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#jupyter-notebook)
     - [Plot](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#plot)
     - [Vector](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#vector)
     - [Dataframe](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#dataframe)
@@ -32,7 +32,7 @@ It's a list with the major items at the top.
 
 # Undercarriage
 
-## Jupter Notebook
+## Jupyter Notebook
 
 - [google/evcxr](https://github.com/google/evcxr) - An evaluation context for Rust.
 - [emakryo/rustdef](https://github.com/emakryo/rustdef) - Jupyter extension for rust.
@@ -129,7 +129,7 @@ Many libraries support the following.
 - Naive Bayes
 - Elastic Net
 
-It write down the features.
+It writes down the features.
 
 - [smartcorelib/smartcore](https://github.com/smartcorelib/smartcore) - SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning.
     - LASSO, Ridge, Random Forest, LU, QR, SVD, EVD, and more metrics
@@ -178,7 +178,7 @@ Tensorflow or Pythorch are the most common.
 - [proycon/deepfrog](https://github.com/proycon/deepfrog) - An NLP-suite powered by deep learning
 - [ferristseng/rust-tfidf](https://github.com/ferristseng/rust-tfidf) - Library to calculate TF-IDF
 - [messense/fasttext-rs](https://github.com/messense/fasttext-rs) - fastText Rust binding
-- [mklf/word2vec-rs](https://github.com/mklf/word2vec-rs) - pure rust implemention of word2vec
+- [mklf/word2vec-rs](https://github.com/mklf/word2vec-rs) - pure rust implementation of word2vec
 - [DimaKudosh/word2vec](https://github.com/DimaKudosh/word2vec) - Rust interface to word2vec.
 - [lloydmeta/sloword2vec-rs](https://github.com/lloydmeta/sloword2vec-rs) - A naive (read: slow) implementation of Word2Vec. Uses BLAS behind the scenes for speed.
 
