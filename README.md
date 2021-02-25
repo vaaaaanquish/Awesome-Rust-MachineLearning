@@ -1,32 +1,32 @@
-# Awasome-Rust-MachineLearning
+# Awesome-Rust-MachineLearning
 
-Awasome Rust Machine Learning crate list that writing this with the idea of migrating from Python.
+Awesome Rust Machine Learning crate list that writing this with the idea of migrating from Python.
 
 It's a list with the major items at the top.
 
 # ToC
 
-- [Undercarriage](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#undercarriage)
-    - [Jupter Notebook](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#jupter-notebook)
-    - [Plot](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#plot)
-    - [Vector](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#vector)
-    - [Dataframe](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#dataframe)
-    - [Image Processing](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#image-processing)
-    - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#natural-language-processing-preprocessing)
-- [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#comprehensive-like-sklearn)
-- [Gradient Boosting](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#gradient-boosting)
-- [Deep Neaural Network](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#deep-neaural-network)
-- [Natural Language Processing (model)](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#natural-language-processing-model)
-- [Recommendation](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#recommendation)
-- [Information Retrieval](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#information-retrieval)
-    - [Full Text Search](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#full-text-search)
-    - [Nearest Neighbor Search](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#nearest-neighbor-search)
-- [Reinforcement Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#reinforcement-learning)
-- [Supervised Learning](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#supervised-learning-model)
-- [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#unsupervised-learning--clustering-model)
-- [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#evolutionary-algorithm)
-- [Thanks](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#thanks)
-- [Reference & Nearby Projects](https://github.com/vaaaaanquish/Awasome-Rust-MachineLearning#reference--nearby-projects)
+- [Undercarriage](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#undercarriage)
+    - [Jupter Notebook](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#jupter-notebook)
+    - [Plot](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#plot)
+    - [Vector](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#vector)
+    - [Dataframe](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#dataframe)
+    - [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing)
+    - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
+- [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
+- [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting)
+- [Deep Neaural Network](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#deep-neaural-network)
+- [Natural Language Processing (model)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-model)
+- [Recommendation](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#recommendation)
+- [Information Retrieval](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#information-retrieval)
+    - [Full Text Search](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#full-text-search)
+    - [Nearest Neighbor Search](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#nearest-neighbor-search)
+- [Reinforcement Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reinforcement-learning)
+- [Supervised Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#supervised-learning-model)
+- [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#unsupervised-learning--clustering-model)
+- [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#evolutionary-algorithm)
+- [Thanks](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#thanks)
+- [Reference & Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference--nearby-projects)
 
 
 
