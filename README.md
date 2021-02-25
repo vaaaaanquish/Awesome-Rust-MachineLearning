@@ -73,6 +73,7 @@ Mainstream is `polars` using arrow.
 - [rust-cv/ndarray-image](https://github.com/rust-cv/ndarray-image) - Allows conversion between ndarray's types and image's types
 - [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
 - [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
+- [atomashpolskiy/rustface](https://github.com/atomashpolskiy/rustface) - Face detection library for the Rust programming language
 
 
 ## Natural Language Processing (preprocessing)
@@ -168,11 +169,13 @@ Tensorflow or Pythorch are the most common.
 - [jakelee8/mxnet-rs](https://github.com/jakelee8/mxnet-rs) - mxnet for Rust
 - [primitiv/primitiv-rust](https://github.com/primitiv/primitiv-rust) - Rust binding of primitiv
 - [chantera/dynet-rs](https://github.com/chantera/dynet-rs) - The Rust Language Bindings for DyNet
+- [millardjn/alumina](https://github.com/millardjn/alumina) - A deep learning library for rust
 
 
 # Natural Language Processing (model)
 
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
+- [proycon/deepfrog](https://github.com/proycon/deepfrog) - An NLP-suite powered by deep learning
 - [ferristseng/rust-tfidf](https://github.com/ferristseng/rust-tfidf) - Library to calculate TF-IDF
 - [messense/fasttext-rs](https://github.com/messense/fasttext-rs) - fastText Rust binding
 - [mklf/word2vec-rs](https://github.com/mklf/word2vec-rs) - pure rust implemention of word2vec
@@ -185,6 +188,7 @@ Tensorflow or Pythorch are the most common.
 For Matrix Factorization, you can use rustlearn.
 
 - [jackgerrits/vowpalwabbit-rs](https://github.com/jackgerrits/vowpalwabbit-rs) - 🦀🐇 Rusty VowpalWabbit
+- [outbrain/fwumious_wabbit](https://github.com/outbrain/fwumious_wabbit) - Fwumious Wabbit, fast on-line machine learning toolkit written in Rust
 - [hja22/rucommender](https://github.com/hja22/rucommender) - Rust implementation of user-based collaborative filtering
 - [maciejkula/sbr-rs](https://github.com/maciejkula/sbr-rs) - Deep recommender systems for Rust
 - [chrisvittal/quackin](https://github.com/chrisvittal/quackin) - A recommender systems framework for Rust
@@ -239,6 +243,7 @@ ANN search (approximate nearest neighbor)
 
 - [frjnn/bhtsne](https://github.com/frjnn/bhtsne) - Barnes-Hut t-SNE implementation written in Rust.
 - [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) - Rust library for Self Organising Maps (SOM).
+- [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust.
 - [kno10/rust-kmedoids](https://github.com/kno10/rust-kmedoids) - k-Medoids clustering in Rust with the FasterPAM algorithm
 
 
