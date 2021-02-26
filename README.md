@@ -24,6 +24,7 @@ It's a list with the major items at the top.
 - [Reinforcement Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reinforcement-learning)
 - [Supervised Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#supervised-learning-model)
 - [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#unsupervised-learning--clustering-model)
+- [Statistical Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#statistical-model)
 - [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#evolutionary-algorithm)
 - [Thanks](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#thanks)
 - [Reference & Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference--nearby-projects)
@@ -237,6 +238,7 @@ ANN search (approximate nearest neighbor)
 - [shadeMe/liblinear-rs](https://github.com/shademe/liblinear-rs) - Rust language bindings for the LIBLINEAR C/C++ library.
 - [messense/crfsuite-rs](https://github.com/messense/crfsuite-rs) - Rust binding to crfsuite
 - [ralfbiedert/ffsvm-rust](https://github.com/ralfbiedert/ffsvm-rust) - FFSVM stands for "Really Fast Support Vector Machine"
+- [Rui_Vieira/naive-bayesnaive-bayes](https://gitlab.com/ruivieira/naive-bayes) - A Naive Bayes classifier written in Rust.
 
 
 # Unsupervised Learning & Clustering Model
@@ -245,6 +247,13 @@ ANN search (approximate nearest neighbor)
 - [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) - Rust library for Self Organising Maps (SOM).
 - [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust.
 - [kno10/rust-kmedoids](https://github.com/kno10/rust-kmedoids) - k-Medoids clustering in Rust with the FasterPAM algorithm
+
+
+# Statistical Model
+
+- [krfricke/arima](https://github.com/krfricke/arima) - ARIMA modelling for Rust
+- [Daingun/automatica](https://gitlab.com/daingun/automatica) - Automatic Control Systems Library
+- [rbagd/rust-linearkalman](https://github.com/rbagd/rust-linearkalman) - Kalman filtering and smoothing in Rust
 
 
 # Evolutionary Algorithm
