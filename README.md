@@ -13,6 +13,7 @@ It's a list with the major items at the top.
     - [Dataframe](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#dataframe)
     - [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing)
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
+    - [Graph](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
 - [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting)
 - [Deep Neural Network](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#deep-neural-network)
@@ -104,10 +105,20 @@ In `rs-natural`, addition to Tokenize, Distance, NGrams, Naive-Bayes and TF-IDF 
     - [nakagami/awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
 
 
-## ref
+### ref
 
 - https://users.rust-lang.org/t/interest-for-nlp-in-rust/15331
 - https://www.reddit.com/r/rust/comments/5jj8vr/natural_language_processing_in_rust/
+
+
+## Graph
+
+Looks like a lot of people are using `petgraph`.
+
+- [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
+- [rs-graph/rs-graph](https://chiselapp.com/user/fifr/repository/rs-graph/doc/release/README.md) - rs-graph is a library for graph algorithms and combinatorial optimization
+- [metamolecular/gamma](https://github.com/metamolecular/gamma) - A graph library for Rust.
+- [purpleprotocol/graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust
 
 
 # Comprehensive (like sklearn)
