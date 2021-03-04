@@ -55,6 +55,7 @@ ndarray vs nalgebra - reddit https://www.reddit.com/r/rust/comments/btn1cz/ndarr
 
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
+- [liborty/rstats](https://github.com/liborty/rstats) - Rust Statistics and Vector Algebra Library
 
 
 ## Dataframe
@@ -262,6 +263,7 @@ ANN search (approximate nearest neighbor)
 
 # Statistical Model
 
+- [Redpoll/changepoint](https://gitlab.com/Redpoll/changepoint) - Includes the following change point detection algorithms: Bocpd -- Online Bayesian Change Point Detection Reference. BocpdTruncated -- Same as Bocpd but truncated the run-length distribution when those lengths are unlikely.
 - [krfricke/arima](https://github.com/krfricke/arima) - ARIMA modelling for Rust
 - [Daingun/automatica](https://gitlab.com/daingun/automatica) - Automatic Control Systems Library
 - [rbagd/rust-linearkalman](https://github.com/rbagd/rust-linearkalman) - Kalman filtering and smoothing in Rust
