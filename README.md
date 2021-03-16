@@ -55,6 +55,7 @@ ndarray vs nalgebra - reddit https://www.reddit.com/r/rust/comments/btn1cz/ndarr
 
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
+- [vbarrielle/sprs](https://github.com/vbarrielle/sprs) - sparse linear algebra library for rust
 - [liborty/rstats](https://github.com/liborty/rstats) - Rust Statistics and Vector Algebra Library
 
 
@@ -231,6 +232,7 @@ ANN search (approximate nearest neighbor)
 
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [rust-cv/hnsw](https://github.com/rust-cv/hnsw) - HNSW ANN from the paper "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs"
+- [lerouxrgd/ngt-rs](https://github.com/lerouxrgd/ngt-rs) - Rust wrappers for NGT approximate nearest neighbor search
 - [granne/granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search
 - [rust-cv/hwt](https://github.com/rust-cv/hwt) - Hamming Weight Tree from the paper "Online Nearest Neighbor Search in Hamming Space"
 - [kornelski/vpsearch](https://github.com/kornelski/vpsearch) - C library for finding nearest (most similar) element in a set
@@ -250,7 +252,9 @@ ANN search (approximate nearest neighbor)
 - [shadeMe/liblinear-rs](https://github.com/shademe/liblinear-rs) - Rust language bindings for the LIBLINEAR C/C++ library.
 - [messense/crfsuite-rs](https://github.com/messense/crfsuite-rs) - Rust binding to crfsuite
 - [ralfbiedert/ffsvm-rust](https://github.com/ralfbiedert/ffsvm-rust) - FFSVM stands for "Really Fast Support Vector Machine"
+- [zenoxygen/bayespam](https://github.com/zenoxygen/bayespam) - A simple bayesian spam classifier written in Rust.
 - [Rui_Vieira/naive-bayesnaive-bayes](https://gitlab.com/ruivieira/naive-bayes) - A Naive Bayes classifier written in Rust.
+- [sile/randomforest](https://github.com/sile/randomforest) - A random forest implementation in Rust
 
 
 # Unsupervised Learning & Clustering Model
@@ -259,6 +263,7 @@ ANN search (approximate nearest neighbor)
 - [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) - Rust library for Self Organising Maps (SOM).
 - [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust.
 - [kno10/rust-kmedoids](https://github.com/kno10/rust-kmedoids) - k-Medoids clustering in Rust with the FasterPAM algorithm
+- [genbattle/rkm](https://github.com/genbattle/rkm) - Generic k-means implementation written in Rust
 
 
 # Statistical Model
