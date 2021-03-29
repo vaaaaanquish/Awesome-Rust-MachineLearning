@@ -15,6 +15,7 @@ It's a list with the major items at the top.
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
     - [Graph](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
+- [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics)
 - [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting)
 - [Deep Neural Network](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#deep-neural-network)
 - [Natural Language Processing (model)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-model)
@@ -159,6 +160,14 @@ It writes down the features.
     - https://github.com/AtheMathmo/rusty-machine#machine-learning
 
 
+# Comprehensive (Statistics)
+
+Optimize, Automatic Differentiation, Numerical Analysis, Statistics, ... and more
+
+- [Axect/Peroxide](https://github.com/Axect/Peroxide) - Rust numeric library with R, MATLAB & Python syntax
+    - Linear Algebra, Functional Programming, Automatic Differentiation, Numerical Analysis, Statistics, Special functions, Plotting, Dataframe
+
+
 # Gradient Boosting
 
 catboost is for predict only.
@@ -272,6 +281,7 @@ ANN search (approximate nearest neighbor)
 - [krfricke/arima](https://github.com/krfricke/arima) - ARIMA modelling for Rust
 - [Daingun/automatica](https://gitlab.com/daingun/automatica) - Automatic Control Systems Library
 - [rbagd/rust-linearkalman](https://github.com/rbagd/rust-linearkalman) - Kalman filtering and smoothing in Rust
+- [sanity/pair_adjacent_violators](https://github.com/sanity/pair_adjacent_violators) - An implementation of the Pair Adjacent Violators algorithm for isotonic regression in Rust
 
 
 # Evolutionary Algorithm
