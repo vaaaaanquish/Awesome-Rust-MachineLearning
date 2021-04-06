@@ -158,7 +158,8 @@ It writes down the features.
 - [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine) - Machine Learning library for Rust
     - Confusion Matrix, Cross Varidation, Accuracy, F1 Score, MSE
     - https://github.com/AtheMathmo/rusty-machine#machine-learning
-
+- [benjarison/eval-metrics](https://github.com/benjarison/eval-metrics) - Evaluation metrics for machine learning
+    - Many evaluation functions
 
 # Comprehensive (Statistics)
 
