@@ -252,6 +252,7 @@ ANN search (approximate nearest neighbor)
 
 # Reinforcement Learning
 
+- [NivenT/REnforce](https://github.com/NivenT/REnforce) - Reinforcement learning library written in Rust
 - [tspooner/rsrl](https://github.com/tspooner/rsrl) - A fast, safe and easy to use reinforcement learning framework in Rust.
 - [milanboers/rurel](https://github.com/milanboers/rurel) - Flexible, reusable reinforcement learning (Q learning) implementation in Rust
 - [MrRobb/gym-rs](https://github.com/mrrobb/gym-rs) - OpenAI Gym bindings for Rust
