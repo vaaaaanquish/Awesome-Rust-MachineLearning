@@ -265,6 +265,7 @@ ANN search (approximate nearest neighbor)
 - [zenoxygen/bayespam](https://github.com/zenoxygen/bayespam) - A simple bayesian spam classifier written in Rust.
 - [Rui_Vieira/naive-bayesnaive-bayes](https://gitlab.com/ruivieira/naive-bayes) - A Naive Bayes classifier written in Rust.
 - [sile/randomforest](https://github.com/sile/randomforest) - A random forest implementation in Rust
+- [tomtung/craftml-rs](https://github.com/tomtung/craftml-rs) - A Rust🦀 implementation of CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning
 
 
 # Unsupervised Learning & Clustering Model
