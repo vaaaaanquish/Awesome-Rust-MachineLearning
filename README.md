@@ -196,6 +196,7 @@ Tensorflow or Pythorch are the most common.
 - [JonathanWoollett-Light/cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
 - [oliverfunk/darknet-rs](https://github.com/oliverfunk/darknet-rs) - Rust bindings for darknet
 - [jakelee8/mxnet-rs](https://github.com/jakelee8/mxnet-rs) - mxnet for Rust
+- [jramapuram/hal](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning
 - [primitiv/primitiv-rust](https://github.com/primitiv/primitiv-rust) - Rust binding of primitiv
 - [chantera/dynet-rs](https://github.com/chantera/dynet-rs) - The Rust Language Bindings for DyNet
 - [millardjn/alumina](https://github.com/millardjn/alumina) - A deep learning library for rust
