@@ -303,6 +303,7 @@ ANN search (approximate nearest neighbor)
 - [innoave/genevo](https://github.com/innoave/genevo) - Execute genetic algorithm (GA) simulations in a customizable and extensible way.
 - [Jeffail/spiril](https://github.com/Jeffail/spiril) - Rust library for genetic algorithms
 - [sotrh/rust-genetic-algorithm](https://github.com/sotrh/rust-genetic-algorithm) - Example of a genetic algorithm in Rust and Python
+- [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) - darwin-rs, evolutionary algorithms with rust
 
 
 # Thanks
