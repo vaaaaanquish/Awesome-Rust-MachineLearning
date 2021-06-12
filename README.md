@@ -250,6 +250,7 @@ ANN search (approximate nearest neighbor)
 
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [rust-cv/hnsw](https://github.com/rust-cv/hnsw) - HNSW ANN from the paper "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs"
+- [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [lerouxrgd/ngt-rs](https://github.com/lerouxrgd/ngt-rs) - Rust wrappers for NGT approximate nearest neighbor search
 - [granne/granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - vector similarity search engine with extended filtering support
