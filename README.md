@@ -246,7 +246,7 @@ For Matrix Factorization, you can use rustlearn.
 
 ## Nearest Neighbor Search
 
-ANN search (approximate nearest neighbor)
+ANN search (approximate nearest neighbor), hashing, dimensional tree, etc...
 
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [rust-cv/hnsw](https://github.com/rust-cv/hnsw) - HNSW ANN from the paper "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs"
@@ -257,11 +257,16 @@ ANN search (approximate nearest neighbor)
 - [rust-cv/hwt](https://github.com/rust-cv/hwt) - Hamming Weight Tree from the paper "Online Nearest Neighbor Search in Hamming Space"
 - [kornelski/vpsearch](https://github.com/kornelski/vpsearch) - C library for finding nearest (most similar) element in a set
 - [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and lookup
-
+- [petabi/petal-neighbors](https://github.com/petabi/petal-neighbors) - Nearest neighbor search algorithms including a ball tree and a vantage point tree.
+- [ritchie46/lsh-rs](https://github.com/ritchie46/lsh-rs) - Locality Sensitive Hashing in Rust with Python bindings
+- [kampersanda/mih-rs](https://github.com/kampersanda/mih-rs) - Rust implementation of multi-index hashing for neighbor searches on 64-bit codes in the Hamming space
 
 
 # Reinforcement Learning
 
+Looks good `border`.
+
+- [taku-y/border](https://github.com/taku-y/border) - Border is a reinforcement learning library in Rust.
 - [NivenT/REnforce](https://github.com/NivenT/REnforce) - Reinforcement learning library written in Rust
 - [tspooner/rsrl](https://github.com/tspooner/rsrl) - A fast, safe and easy to use reinforcement learning framework in Rust.
 - [milanboers/rurel](https://github.com/milanboers/rurel) - Flexible, reusable reinforcement learning (Q learning) implementation in Rust
@@ -285,8 +290,8 @@ ANN search (approximate nearest neighbor)
 - [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) - Rust library for Self Organising Maps (SOM).
 - [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust.
 - [kno10/rust-kmedoids](https://github.com/kno10/rust-kmedoids) - k-Medoids clustering in Rust with the FasterPAM algorithm
-- [genbattle/rkm](https://github.com/genbattle/rkm) - Generic k-means implementation written in Rust
 - [petabi/petal-clustering](https://github.com/petabi/petal-clustering) - DBSCAN and OPTICS clustering algorithms.
+- [genbattle/rkm](https://github.com/genbattle/rkm) - Generic k-means implementation written in Rust
 
 
 # Statistical Model
