@@ -28,8 +28,8 @@ It's a list with the major items at the top.
 - [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#unsupervised-learning--clustering-model)
 - [Statistical Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#statistical-model)
 - [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#evolutionary-algorithm)
+- [Reference, Blog, Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference--nearby-projects)
 - [Thanks](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#thanks)
-- [Reference & Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference--nearby-projects)
 
 
 
@@ -313,19 +313,19 @@ Looks good `border`.
 - [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) - darwin-rs, evolutionary algorithms with rust
 
 
+# Reference, Blog, Nearby Projects
+- Nearby Projects
+    - https://github.com/e-tony/best-of-ml-rust
+- Reference, Blog
+    - https://blog.logrocket.com/machine-learning-in-rust-using-linfa/
+    - https://github.com/rust-unofficial/awesome-rust
+    - https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f
+    - http://www.arewelearningyet.com/
+
+
 # Thanks
 
 Thanks for all the projects.
 
-This document is based on a blog in Japanese [Rustで扱える機械学習関連のクレート2021](https://vaaaaaanquish.hatenablog.com/entry/2021/01/23/233113).
-
 Please PR. Thanks.
 
-
-
-# Reference & Nearby Projects
-- https://lib.rs/
-- https://crates.io/keywords/
-- https://github.com/rust-unofficial/awesome-rust
-- https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f
-- http://www.arewelearningyet.com/
