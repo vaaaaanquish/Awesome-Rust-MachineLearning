@@ -205,6 +205,8 @@ Tensorflow or Pythorch are the most common.
 - [primitiv/primitiv-rust](https://github.com/primitiv/primitiv-rust) - Rust binding of primitiv
 - [chantera/dynet-rs](https://github.com/chantera/dynet-rs) - The Rust Language Bindings for DyNet
 - [millardjn/alumina](https://github.com/millardjn/alumina) - A deep learning library for rust
+- [jramapuram/hal](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning
+- [afck/fann-rs](https://github.com/afck/fann-rs) - Rust wrapper for the Fast Artificial Neural Network library
 
 
 # Natural Language Processing (model)
@@ -322,6 +324,7 @@ Looks good `border`.
     - https://blog.logrocket.com/machine-learning-in-rust-using-linfa/
     - https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/
     - https://medium.com/swlh/machine-learning-in-rust-smartcore-2f472d1ce83
+    - https://rustrepo.com/catalog/rust-machine-learning_newest_1
     - https://github.com/rust-unofficial/awesome-rust
     - https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f
     - http://www.arewelearningyet.com/
