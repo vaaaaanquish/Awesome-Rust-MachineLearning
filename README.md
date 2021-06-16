@@ -193,6 +193,7 @@ Tensorflow or Pythorch are the most common.
 
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
+- [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
 - [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust
 - [JonathanWoollett-Light/cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
