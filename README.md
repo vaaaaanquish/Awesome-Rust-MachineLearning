@@ -2,6 +2,8 @@
 
 Awesome Rust Machine Learning crate list that writing this with the idea of migrating from Python.
 
+And Blog of Machine Learning using Rust.
+
 It's a list with the major items at the top.
 
 # ToC
@@ -28,7 +30,7 @@ It's a list with the major items at the top.
 - [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#unsupervised-learning--clustering-model)
 - [Statistical Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#statistical-model)
 - [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#evolutionary-algorithm)
-- [Reference, Blog, Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference--nearby-projects)
+- [Reference, Blog, Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference-blog-nearby-projects)
 - [Thanks](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#thanks)
 
 
@@ -318,6 +320,8 @@ Looks good `border`.
     - https://github.com/e-tony/best-of-ml-rust
 - Reference, Blog
     - https://blog.logrocket.com/machine-learning-in-rust-using-linfa/
+    - https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/
+    - https://medium.com/swlh/machine-learning-in-rust-smartcore-2f472d1ce83
     - https://github.com/rust-unofficial/awesome-rust
     - https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f
     - http://www.arewelearningyet.com/
