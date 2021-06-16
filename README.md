@@ -327,6 +327,7 @@ Looks good `border`.
     - https://rustrepo.com/catalog/rust-machine-learning_newest_1
     - https://github.com/rust-unofficial/awesome-rust
     - https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f
+    - https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9
     - http://www.arewelearningyet.com/
 
 
