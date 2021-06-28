@@ -2,7 +2,7 @@
 
 Awesome Rust Machine Learning crate list that writing this with the idea of migrating from Python.
 
-And Blog of Machine Learning using Rust.
+And reference of Machine Learning using Rust (blog, book, movie, discussion, ...and more).
 
 It's a list with the major items at the top.
 
@@ -16,10 +16,12 @@ It's a list with the major items at the top.
     - [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing)
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
     - [Graph](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph)
+    - [Interface](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
 - [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics)
 - [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting)
 - [Deep Neural Network](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#deep-neural-network)
+- [Graph Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph-model)
 - [Natural Language Processing (model)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-model)
 - [Recommendation](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#recommendation)
 - [Information Retrieval](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#information-retrieval)
@@ -30,7 +32,16 @@ It's a list with the major items at the top.
 - [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#unsupervised-learning--clustering-model)
 - [Statistical Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#statistical-model)
 - [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#evolutionary-algorithm)
-- [Reference, Blog, Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference-blog-nearby-projects)
+- [Reference](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference)
+    - [Nearby Projects]()
+    - [Blogs]()
+        - [Introduction]()
+        - [Tutorial]()
+        - [Case Study]()
+    - [Discussion]()
+    - [Books]()
+    - [Movie]()
+    - [Paper]()
 - [Thanks](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#thanks)
 
 
@@ -116,11 +127,6 @@ Machine learning models may be used to process NLP.
     - [nakagami/awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
 
 
-### ref
-
-- https://users.rust-lang.org/t/interest-for-nlp-in-rust/15331
-- https://www.reddit.com/r/rust/comments/5jj8vr/natural_language_processing_in_rust/
-
 
 ## Graph
 
@@ -130,6 +136,13 @@ Looks like a lot of people are using `petgraph`.
 - [rs-graph/rs-graph](https://chiselapp.com/user/fifr/repository/rs-graph/doc/release/README.md) - rs-graph is a library for graph algorithms and combinatorial optimization
 - [metamolecular/gamma](https://github.com/metamolecular/gamma) - A graph library for Rust.
 - [purpleprotocol/graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust
+
+
+## Interface
+
+- [vertexclique/orkhon](https://github.com/vertexclique/orkhon) - Orkhon: ML Inference Framework and Server Runtime
+- [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet) - Xaynet represents an agnostic Federated Machine Learning framework to build privacy-preserving AI applications
+- [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 
 
 # Comprehensive (like sklearn)
@@ -168,6 +181,8 @@ It writes down the features.
     - https://github.com/AtheMathmo/rusty-machine#machine-learning
 - [benjarison/eval-metrics](https://github.com/benjarison/eval-metrics) - Evaluation metrics for machine learning
     - Many evaluation functions
+- [blue-yonder/vikos](https://github.com/blue-yonder/vikos) - A machine learning library for supervised training of parametrized models
+
 
 # Comprehensive (Statistics)
 
@@ -195,9 +210,12 @@ Tensorflow or Pythorch are the most common.
 
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
+- [spearow/juice](https://github.com/spearow/juice) - The Hacker's Machine Learning Engine
 - [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
+- [bilal2vec/L2](https://github.com/bilal2vec/L2) - l2 is a fast, Pytorch-style Tensor+Autograd library written in Rust
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
 - [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust
+- [patricksongzy/corgi](https://github.com/patricksongzy/corgi) - A neural network, and tensor dynamic automatic differentiation implementation for Rust.
 - [JonathanWoollett-Light/cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
 - [oliverfunk/darknet-rs](https://github.com/oliverfunk/darknet-rs) - Rust bindings for darknet
 - [jakelee8/mxnet-rs](https://github.com/jakelee8/mxnet-rs) - mxnet for Rust
@@ -207,6 +225,13 @@ Tensorflow or Pythorch are the most common.
 - [millardjn/alumina](https://github.com/millardjn/alumina) - A deep learning library for rust
 - [jramapuram/hal](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning
 - [afck/fann-rs](https://github.com/afck/fann-rs) - Rust wrapper for the Fast Artificial Neural Network library
+- [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
+- [c0dearm/mushin](https://github.com/c0dearm/mushin) - Compile-time creation of neural networks
+
+
+# Graph Model
+
+- [Synerise/cleora](https://github.com/Synerise/cleora) - Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.
 
 
 # Natural Language Processing (model)
@@ -317,18 +342,84 @@ Looks good `border`.
 - [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) - darwin-rs, evolutionary algorithms with rust
 
 
-# Reference, Blog, Nearby Projects
-- Nearby Projects
-    - https://github.com/e-tony/best-of-ml-rust
-- Reference, Blog
-    - https://blog.logrocket.com/machine-learning-in-rust-using-linfa/
-    - https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/
-    - https://medium.com/swlh/machine-learning-in-rust-smartcore-2f472d1ce83
-    - https://rustrepo.com/catalog/rust-machine-learning_newest_1
-    - https://github.com/rust-unofficial/awesome-rust
-    - https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f
-    - https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9
-    - http://www.arewelearningyet.com/
+# Reference
+
+## Nearby Projects
+
+- [Are we learning yet?](http://www.arewelearningyet.com/), A work-in-progress to catalog the state of machine learning in Rust
+- [e-tony/best-of-ml-rust](https://github.com/e-tony/best-of-ml-rust), A ranked list of awesome machine learning Rust libraries
+- [The Best 51 Rust Machine learning Libraries](https://rustrepo.com/catalog/rust-machine-learning_newest_1), RustRepo
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust), A curated list of Rust code and resources
+- [Top 16 Rust Machine learning Projects](https://www.libhunt.com/l/rust/t/machine-learning), Open-source Rust projects categorized as Machine learning
+- [39+ Best Rust Machine learning frameworks, libraries, software and resourcese](https://reposhub.com/rust/machine-learning), ReposHub
+
+
+## Blogs
+
+### Introduction
+
+- [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f), Medium, 2016/1/6, Autumn Engineering
+- [Rust vs Python: Technology And Business Comparison](https://www.ideamotive.co/blog/rust-vs-python-technology-and-business-comparison), 2021/3/4, Miłosz Kaczorowski
+- [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries), 2021/2/28, Ritchie Vink 
+- [Polars: The fastest DataFrame library you've never heard of](https://www.analyticsvidhya.com/blog/2021/06/polars-the-fastest-dataframe-library-youve-never-heard-of) 2021/1/19, Analytics Vidhya 
+- [Data Manipulation: Polars vs Rust](https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8), 2021/3/13, Xavier Tao
+- [State of Machine Learning in Rust – Ehsan's Blog](https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/), 2019/5/13, Published by Ehsan
+- [Ritchie Vink, Machine Learning Engineer, writes Polars, one of the fastest DataFrame libraries in Python and Rust](https://www.xomnia.com/post/ritchie-vink-writes-polars-one-of-the-fastest-dataframe-libraries-in-python-and-rust/), Xomnia, 2021/5/11
+- [WebAssemblyでの機械学習モデルデプロイの動向](https://tkat0.github.io/posts/deploy-ml-as-wasm), 2020/12/2, tkat0
+
+
+### Tutorial
+
+- [Rust Machine Learning Book](https://rust-ml.github.io/book/chapter_1.html), Examples of KMeans and DBSCAN with linfa-clustering
+- [Artificial Intelligence and Machine Learning – Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications – Dev Guis ](http://devguis.com/6-artificial-intelligence-and-machine-learning-practical-rust-projects-building-game-physical-computing-and-machine-learning-applications.html), 2021/5/19
+- [Machine learning in Rust using Linfa](https://blog.logrocket.com/machine-learning-in-rust-using-linfa/), LogRocket Blog, 2021/4/30, Timeular, Mario Zupan, Examples of LogisticRegression
+- [Machine Learning in Rust, Smartcore](https://medium.com/swlh/machine-learning-in-rust-smartcore-2f472d1ce83), Medium, The Startup, 2021/1/15, [Vlad Orlov](https://volodymyr-orlov.medium.com/), Examples of LinerRegression, Random Forest Regressor, and K-Fold
+- [Machine Learning in Rust, Logistic Regression](https://medium.com/swlh/machine-learning-in-rust-logistic-regression-74d6743df161), Medium, The Startup, 2021/1/6, [Vlad Orlov](https://volodymyr-orlov.medium.com/)
+- [Machine Learning in Rust, Linear Regression](https://medium.com/swlh/machine-learning-in-rust-linear-regression-edef3fb65f93), Medium, The Startup, 2020/12/16, [Vlad Orlov](https://volodymyr-orlov.medium.com/)
+- [Machine Learning in Rust](https://athemathmo.github.io/2016/03/07/rusty-machine.html), 2016/3/7, James, Examples of LogisticRegressor
+- [A Simple Text Summarizer written in Rust](https://towardsdatascience.com/a-simple-text-summarizer-written-in-rust-4df05f9327a5), Towards Data Science, 2020/11/24, [Charles Chan](https://chancharles.medium.com/), Examples of Text Sentence Vector, Cosine Distance and PageRank
+- [Extracting deep learning image embeddings in Rust](https://logicai.io/blog/extracting-image-embeddings/), RecoAI, 2021/6/1, Paweł Jankiewic, Examples of ONNX
+
+
+### Case study
+
+- [Production users - Rust Programming Language](https://www.rust-lang.org/production/users), by rust-lang.org
+- [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/), A LEARNING JOURNAL, 2019/12/1, [@algo_luca](https://twitter.com/algo_luca)
+- [9 Companies That Use Rust in Production](https://serokell.io/blog/rust-companies), serokell, 2020/11/18, Gints Dreimanis
+- [エッジMLシステムをC/C++からRustへ移行した事例](https://docs.google.com/presentation/d/1HOL9jheJnKkh2q7w3hU_px-je1qL7lxrSXV-0P1hces/edit?usp=sharing), Rust.Tokyo 2019, 2019/10/26, DeNA, tkat0
+
+
+## Discussion
+
+- [Natural Language Processing in Rust : rust](https://www.reddit.com/r/rust/comments/5jj8vr/natural_language_processing_in_rust), 2016/12/6
+- [Interest for NLP in Rust? - The Rust Programming Language Forum](https://users.rust-lang.org/t/interest-for-nlp-in-rust/15331), 2018/1/19
+- [Is Rust good for deep learning and artificial intelligence? - The Rust Programming Language Forum](https://users.rust-lang.org/t/is-rust-good-for-deep-learning-and-artificial-intelligence/22866), 2018/11/18
+- [Taking ML to production with Rust | Hacker News](https://news.ycombinator.com/item?id=21680965), 2019/12/2
+- [Who is using Rust for Machine learning in production/research? : rust](https://www.reddit.com/r/rust/comments/fvehyq/d_who_is_using_rust_for_machine_learning_in/), 2020/4/5
+
+
+## Books
+
+- [Practical Machine Learning with Rust: Creating Intelligent Applications in Rust (English Edition)](https://amzn.to/3h7JV8U), 2019/12/10, Joydeep Bhattacharjee
+    - Write machine learning algorithms in Rust
+    - Use Rust libraries for different tasks in machine learning
+    - Create concise Rust packages for your machine learning applications
+    - Implement NLP and computer vision in Rust
+    - Deploy your code in the cloud and on bare metal servers
+    - source code: [Apress/practical-machine-learning-w-rust](https://github.com/Apress/practical-machine-learning-w-rust)
+
+
+## Movie
+
+- [The /r/playrust Classifier: Real World Rust Data Science](https://www.youtube.com/watch?v=lY10kTcM8ek), RustConf 2016, 2016/10/05, Suchin Gururangan & Colin O'Brien
+- [Machine Learning is changing - is Rust the right tool for the job?](https://www.youtube.com/watch?v=odI_LY8AIqo), RustLab 2019, 2019/10/31, Luca Palmieri
+- [Using TensorFlow in Embedded Rust](https://www.youtube.com/watch?v=DUVE86yTfKU), 2020/09/29, Ferrous Systems GmbH, Richard Meadows
+- [Full use of Rust on edge and cloud: AI and IoT use cases エッジとクラウドでRustを使いこなす ～AI/IoTでの事例～](https://rustfest.global/session/10-%E3%82%A8%E3%83%83%E3%82%B8%E3%81%A8%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%A7rust%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-%EF%BD%9Eai-iot%E3%81%A7%E3%81%AE%E4%BA%8B%E4%BE%8B%EF%BD%9E/), RUSTFEST, 2020/11/7, Mobility Technologies, tkat0
+
+
+## Paper
+
+- [End-to-end NLP Pipelines in Rust](https://www.aclweb.org/anthology/2020.nlposs-1.4.pdf), Proceedings of Second Workshop for NLP Open Source Software (NLP-OSS), pages 20–25 Virtual Conference, 2020/11/19, Guillaume Becquin
 
 
 # Thanks
