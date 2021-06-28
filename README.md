@@ -17,6 +17,7 @@ It's a list with the major items at the top.
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
     - [Graph](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph)
     - [Interface](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface)
+    - [Workflow](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#workflow)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
 - [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics)
 - [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting)
@@ -71,6 +72,7 @@ ndarray vs nalgebra - reddit https://www.reddit.com/r/rust/comments/btn1cz/ndarr
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [vbarrielle/sprs](https://github.com/vbarrielle/sprs) - sparse linear algebra library for rust
 - [liborty/rstats](https://github.com/liborty/rstats) - Rust Statistics and Vector Algebra Library
+- [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust binding of NumPy C-API
 
 
 ## Dataframe
@@ -130,8 +132,7 @@ Machine learning models may be used to process NLP.
 
 ## Graph
 
-Looks like a lot of people are using `petgraph`.
-
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [rs-graph/rs-graph](https://chiselapp.com/user/fifr/repository/rs-graph/doc/release/README.md) - rs-graph is a library for graph algorithms and combinatorial optimization
 - [metamolecular/gamma](https://github.com/metamolecular/gamma) - A graph library for Rust.
@@ -143,6 +144,11 @@ Looks like a lot of people are using `petgraph`.
 - [vertexclique/orkhon](https://github.com/vertexclique/orkhon) - Orkhon: ML Inference Framework and Server Runtime
 - [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet) - Xaynet represents an agnostic Federated Machine Learning framework to build privacy-preserving AI applications
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+
+
+## Workflow
+
+- [substantic/rain](https://github.com/substantic/rain) - Framework for large distributed pipelines
 
 
 # Comprehensive (like sklearn)
@@ -321,6 +327,7 @@ Looks good `border`.
 - [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust.
 - [kno10/rust-kmedoids](https://github.com/kno10/rust-kmedoids) - k-Medoids clustering in Rust with the FasterPAM algorithm
 - [petabi/petal-clustering](https://github.com/petabi/petal-clustering) - DBSCAN and OPTICS clustering algorithms.
+- [milesgranger/gap_statistic](https://github.com/milesgranger/gap_statistic) - Dynamically get the suggested clusters in the data for unsupervised learning.
 - [genbattle/rkm](https://github.com/genbattle/rkm) - Generic k-means implementation written in Rust
 
 
