@@ -149,7 +149,7 @@ Machine learning models may be used to process NLP.
 ## Workflow
 
 - [substantic/rain](https://github.com/substantic/rain) - Framework for large distributed pipelines
-
+- [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline
 
 # Comprehensive (like sklearn)
 
@@ -399,6 +399,7 @@ Looks good `border`.
 ## Discussion
 
 - [Natural Language Processing in Rust : rust](https://www.reddit.com/r/rust/comments/5jj8vr/natural_language_processing_in_rust), 2016/12/6
+- [Future prospect of Machine Learning in Rust Programming Language : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/7iz51p/d_future_prospect_of_machine_learning_in_rust/), 2017/11/11
 - [Interest for NLP in Rust? - The Rust Programming Language Forum](https://users.rust-lang.org/t/interest-for-nlp-in-rust/15331), 2018/1/19
 - [Is Rust good for deep learning and artificial intelligence? - The Rust Programming Language Forum](https://users.rust-lang.org/t/is-rust-good-for-deep-learning-and-artificial-intelligence/22866), 2018/11/18
 - [ndarray vs nalgebra : rust](https://www.reddit.com/r/rust/comments/btn1cz/ndarray_vs_nalgebra/), 2019/5/28
