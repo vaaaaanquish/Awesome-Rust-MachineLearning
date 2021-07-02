@@ -38,6 +38,7 @@ It's a list with the major items at the top.
     - [Blogs](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#blogs)
         - [Introduction](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#introduction)
         - [Tutorial](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#tutorial)
+        - [Apply](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#apply)
         - [Case Study](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#case-study)
     - [Discussion](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#discussion)
     - [Books](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#books)
@@ -384,11 +385,17 @@ Looks good `border`.
 - [Machine Learning in Rust, Logistic Regression](https://medium.com/swlh/machine-learning-in-rust-logistic-regression-74d6743df161), Medium, The Startup, 2021/1/6, [Vlad Orlov](https://volodymyr-orlov.medium.com/)
 - [Machine Learning in Rust, Linear Regression](https://medium.com/swlh/machine-learning-in-rust-linear-regression-edef3fb65f93), Medium, The Startup, 2020/12/16, [Vlad Orlov](https://volodymyr-orlov.medium.com/)
 - [Machine Learning in Rust](https://athemathmo.github.io/2016/03/07/rusty-machine.html), 2016/3/7, James, Examples of LogisticRegressor
-- [A Simple Text Summarizer written in Rust](https://towardsdatascience.com/a-simple-text-summarizer-written-in-rust-4df05f9327a5), Towards Data Science, 2020/11/24, [Charles Chan](https://chancharles.medium.com/), Examples of Text Sentence Vector, Cosine Distance and PageRank
-- [Extracting deep learning image embeddings in Rust](https://logicai.io/blog/extracting-image-embeddings/), RecoAI, 2021/6/1, Paweł Jankiewic, Examples of ONNX
 - [Machine Learning and Rust (Part 1): Getting Started!](https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2), Level Up Coding, 2021/1/9, Stefano Bosisio 
 - [Machine Learning and Rust (Part 2): Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9), Level Up Coding, 2021/6/15, Stefano Bosisio 
 - [Machine Learning and Rust (Part 3): Smartcore, Dataframe, and Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60), Level Up Coding, 2021/7/1, Stefano Bosisio 
+
+
+### Apply
+
+- [A Rust SentencePiece implementation](https://guillaume-be.github.io/2020-05-30/sentence_piece), Rust NLP tales, 2020/5/30
+- [Accelerating text generation with Rust](https://guillaume-be.github.io/2020-11-21/generation_benchmarks), Rust NLP tales, 2020/11/21
+- [A Simple Text Summarizer written in Rust](https://towardsdatascience.com/a-simple-text-summarizer-written-in-rust-4df05f9327a5), Towards Data Science, 2020/11/24, [Charles Chan](https://chancharles.medium.com/), Examples of Text Sentence Vector, Cosine Distance and PageRank
+- [Extracting deep learning image embeddings in Rust](https://logicai.io/blog/extracting-image-embeddings/), RecoAI, 2021/6/1, Paweł Jankiewic, Examples of ONNX
 
 
 ### Case study
