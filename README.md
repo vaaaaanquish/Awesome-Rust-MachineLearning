@@ -407,6 +407,7 @@ Looks good `border`.
 - [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/), A LEARNING JOURNAL, 2019/12/1, [@algo_luca](https://twitter.com/algo_luca)
 - [9 Companies That Use Rust in Production](https://serokell.io/blog/rust-companies), serokell, 2020/11/18, Gints Dreimanis
 - [エッジMLシステムをC/C++からRustへ移行した事例](https://docs.google.com/presentation/d/1HOL9jheJnKkh2q7w3hU_px-je1qL7lxrSXV-0P1hces/edit?usp=sharing), Rust.Tokyo 2019, 2019/10/26, DeNA, tkat0
+- [Rustで作る機械学習を用いた画像クロッピングシステム](https://ml-loft.connpass.com/event/157785/), ML@Loft #9, 2019/12/19, Cookpad, johshisha
 
 
 ## Discussion
