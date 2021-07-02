@@ -389,6 +389,7 @@ Looks good `border`.
 - [Machine Learning and Rust (Part 1): Getting Started!](https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2), Level Up Coding, 2021/1/9, Stefano Bosisio 
 - [Machine Learning and Rust (Part 2): Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9), Level Up Coding, 2021/6/15, Stefano Bosisio 
 - [Machine Learning and Rust (Part 3): Smartcore, Dataframe, and Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60), Level Up Coding, 2021/7/1, Stefano Bosisio 
+- [Tensorflow Rust Practical Part 1](https://www.programmersought.com/article/18696273900/), Programmer Sought, 2018
 
 
 ### Apply
