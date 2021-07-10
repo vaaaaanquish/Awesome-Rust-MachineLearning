@@ -16,7 +16,7 @@ It's a list with the major items at the top.
     - [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing)
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
     - [Graph](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph)
-    - [Interface](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface)
+    - [Interface & pipeline](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface--pipeline)
     - [Workflow](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#workflow)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
 - [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics)
@@ -140,8 +140,9 @@ Machine learning models may be used to process NLP.
 - [purpleprotocol/graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust
 
 
-## Interface
+## Interface & Pipeline
 
+- [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust
 - [mstallmo/tensorrt-rs](https://github.com/mstallmo/tensorrt-rs) - Rust library for running TensorRT accelerated deep learning models
 - [ehsanmok/tvm-rust](https://github.com/ehsanmok/tvm-rust) - Rust bindings for TVM runtime
 - [vertexclique/orkhon](https://github.com/vertexclique/orkhon) - Orkhon: ML Inference Framework and Server Runtime
