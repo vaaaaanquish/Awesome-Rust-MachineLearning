@@ -16,7 +16,7 @@ It's a list with the major items at the top.
     - [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing)
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
     - [Graph](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph)
-    - [Interface & pipeline](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface--pipeline)
+    - [Interface & pipeline & AutoML](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface--pipeline--automl)
     - [Workflow](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#workflow)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
 - [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics)
@@ -140,8 +140,9 @@ Machine learning models may be used to process NLP.
 - [purpleprotocol/graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust
 
 
-## Interface & Pipeline
+## Interface & Pipeline & AutoML
 
+- [tangramxyz/tangram](https://github.com/tangramxyz/tangram) - Tangram is an all-in-one automated machine learning framework. https://github.com/tangramxyz/tangram
 - [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust
 - [mstallmo/tensorrt-rs](https://github.com/mstallmo/tensorrt-rs) - Rust library for running TensorRT accelerated deep learning models
 - [ehsanmok/tvm-rust](https://github.com/ehsanmok/tvm-rust) - Rust bindings for TVM runtime
@@ -273,6 +274,7 @@ For Matrix Factorization, you can use rustlearn.
 
 ## Full Text Search
 
+- [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a big data search engine.
 - [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
 - [neuml/txtai.rs](https://github.com/neuml/txtai.rs) - AI-powered search engine for Rust
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
@@ -377,6 +379,7 @@ Looks good `border`.
 - [Data Manipulation: Polars vs Rust](https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8), 2021/3/13, Xavier Tao
 - [State of Machine Learning in Rust – Ehsan's Blog](https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/), 2019/5/13, Published by Ehsan
 - [Ritchie Vink, Machine Learning Engineer, writes Polars, one of the fastest DataFrame libraries in Python and Rust](https://www.xomnia.com/post/ritchie-vink-writes-polars-one-of-the-fastest-dataframe-libraries-in-python-and-rust/), Xomnia, 2021/5/11
+- [Quickwit: A highly cost-efficient search engine in Rust](https://quickwit.io/blog/quickwit-first-release/), 2021/7/13, quickwit, PAUL MASUREL
 - Japanese
     - [WebAssemblyでの機械学習モデルデプロイの動向](https://tkat0.github.io/posts/deploy-ml-as-wasm), 2020/12/2, tkat0
     - [Rustで扱える機械学習関連のクレート2021](https://vaaaaaanquish.hatenablog.com/entry/2021/01/23/233113), 2021/1/23, vaaaaaanquish
