@@ -6,6 +6,10 @@ And reference of Machine Learning using Rust (blog, book, movie, discussion, ...
 
 It's a list with the major items at the top.
 
+
+For Japanese: [README.ja.md](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/master/README.ja.md)
+
+
 # ToC
 
 - [Undercarriage](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#undercarriage)
@@ -125,11 +129,6 @@ Machine learning models may be used to process NLP.
 - [CurrySoftware/rust-stemmers](https://github.com/CurrySoftware/rust-stemmers) - Common stop words in a variety of languages
 - [cmccomb/rust-stop-words](https://github.com/cmccomb/rust-stop-words) - Common stop words in a variety of languages
 - [Freyskeyd/nlp](https://github.com/Freyskeyd/nlp) - Rust-nlp is a library to use Natural Language Processing algorithm with RUST
-- for japanese
-    - [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
-    - [sorami/sudachi.rs](https://github.com/sorami/sudachi.rs) - An unofficial Sudachi clone in Rust (incomplete) 🦀
-    - [agatan/yoin](https://github.com/agatan/yoin) - A Japanese Morphological Analyzer written in pure Rust
-    - [nakagami/awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
 
 
 
@@ -383,9 +382,6 @@ Looks good `border`.
 - [State of Machine Learning in Rust – Ehsan's Blog](https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/), 2019/5/13, Published by Ehsan
 - [Ritchie Vink, Machine Learning Engineer, writes Polars, one of the fastest DataFrame libraries in Python and Rust](https://www.xomnia.com/post/ritchie-vink-writes-polars-one-of-the-fastest-dataframe-libraries-in-python-and-rust/), Xomnia, 2021/5/11
 - [Quickwit: A highly cost-efficient search engine in Rust](https://quickwit.io/blog/quickwit-first-release/), 2021/7/13, quickwit, PAUL MASUREL
-- Japanese
-    - [WebAssemblyでの機械学習モデルデプロイの動向](https://tkat0.github.io/posts/deploy-ml-as-wasm), 2020/12/2, tkat0
-    - [Rustで扱える機械学習関連のクレート2021](https://vaaaaaanquish.hatenablog.com/entry/2021/01/23/233113), 2021/1/23, vaaaaaanquish
 
 
 ### Tutorial
@@ -418,10 +414,7 @@ Looks good `border`.
 - [Production users - Rust Programming Language](https://www.rust-lang.org/production/users), by rust-lang.org
 - [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/), A LEARNING JOURNAL, 2019/12/1, [@algo_luca](https://twitter.com/algo_luca)
 - [9 Companies That Use Rust in Production](https://serokell.io/blog/rust-companies), serokell, 2020/11/18, Gints Dreimanis
-- Japanese
-    - [エッジMLシステムをC/C++からRustへ移行した事例](https://docs.google.com/presentation/d/1HOL9jheJnKkh2q7w3hU_px-je1qL7lxrSXV-0P1hces/edit?usp=sharing), Rust.Tokyo 2019, 2019/10/26, DeNA, tkat0
-    - [Rustで作る機械学習を用いた画像クロッピングシステム](https://ml-loft.connpass.com/event/157785/), ML@Loft #9, 2019/12/19, Cookpad, johshisha
-    - [fnwiya/japanese-rust-companies: 日本で Rust を利用している会社一覧](https://github.com/fnwiya/japanese-rust-companies)
+
 
 ## Discussion
 
@@ -452,8 +445,6 @@ Looks good `border`.
 - [Machine Learning is changing - is Rust the right tool for the job?](https://www.youtube.com/watch?v=odI_LY8AIqo), RustLab 2019, 2019/10/31, Luca Palmieri
 - [Using TensorFlow in Embedded Rust](https://www.youtube.com/watch?v=DUVE86yTfKU), 2020/09/29, Ferrous Systems GmbH, Richard Meadows
 - [Building AI Units in Rust](https://www.youtube.com/watch?v=UHFlKAmANJg), FOSSASIA 2018, 2018/3/25, Vigneshwer Dhinakaran 
-- Japanese
-    - [Full use of Rust on edge and cloud: AI and IoT use cases エッジとクラウドでRustを使いこなす ～AI/IoTでの事例～](https://rustfest.global/session/10-%E3%82%A8%E3%83%83%E3%82%B8%E3%81%A8%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%A7rust%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-%EF%BD%9Eai-iot%E3%81%A7%E3%81%AE%E4%BA%8B%E4%BE%8B%EF%BD%9E/), RUSTFEST, 2020/11/7, Mobility Technologies, tkat0
 
 
 ## Paper
