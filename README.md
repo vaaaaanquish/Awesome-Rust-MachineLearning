@@ -71,6 +71,7 @@ ndarray vs nalgebra - reddit https://www.reddit.com/r/rust/comments/btn1cz/ndarr
 
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
+- [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust)
 - [vbarrielle/sprs](https://github.com/vbarrielle/sprs) - sparse linear algebra library for rust
 - [liborty/rstats](https://github.com/liborty/rstats) - Rust Statistics and Vector Algebra Library
 - [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust binding of NumPy C-API
@@ -107,6 +108,7 @@ Machine learning models may be used to process NLP.
 
 
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) - The core of tokenizers, written in Rust. Provides an implementation of today's most used tokenizers, with a focus on performance and versatility.
+- [google-research/deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) - This repository contains code to deduplicate language model datasets as descrbed in the paper "Deduplicating Training Data Makes Language Models Better" by Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Callison-Burch and Nicholas Carlini. This repository contains both the ExactSubstr deduplication implementation (written in Rust) along with the scripts we used in the paper to perform deduplication and inspect the results (written in Python). In an upcoming update, we will add files to reproduce the NearDup-deduplicated versions of the C4, RealNews, LM1B, and Wiki-40B-en datasets.
 - [guillaume-be/rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) - Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models
 - [christophertrml/rs-natural](https://github.com/christophertrml/rs-natural) - Natural Language Processing for Rust
 - [bminixhofer/nnsplit](https://github.com/bminixhofer/nnsplit) - Semantic text segmentation. For sentence boundary detection, compound splitting and more.
