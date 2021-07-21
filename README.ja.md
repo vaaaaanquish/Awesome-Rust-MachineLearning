@@ -26,12 +26,13 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [Rust で主成分分析](https://sinhrks.hatenablog.com/entry/2015/11/15/232129), 2015/11/15, StatsFragments
 - [Rust で階層的クラスタリング](https://sinhrks.hatenablog.com/entry/2015/11/21/000845), 2015/11/21, StatsFragments
 - [Rust で k-means クラスタリング](https://sinhrks.hatenablog.com/entry/2015/12/07/003842), 2015/12/7, StatsFragments
+- [RustのドローイングライブラリPlottersの紹介](https://lab.mo-t.com/blog/rust-plotters), MoT Lab, 2020/8/4, _tkato_
 - [WebAssemblyでの機械学習モデルデプロイの動向](https://tkat0.github.io/posts/deploy-ml-as-wasm), 2020/12/2, tkat0
+- [Rustによるlindera、neologd、fasttext、XGBoostを用いたテキスト分類](https://vaaaaaanquish.hatenablog.com/entry/2020/12/14/192246), 2020/12/14, vaaaaaanquish
 - [『ゼロから作る Deep Learning』を読んで Rust で実装した話](https://qiita.com/Surpris/items/823b60caf554ecd36d20), 2020/12/15, Surpris2021
 - [Rustで扱える機械学習関連のクレート2021](https://vaaaaaanquish.hatenablog.com/entry/2021/01/23/233113), 2021/1/23, vaaaaaanquish
 - [Rust の機械学習ライブラリ smartcore に入門してみた](https://zenn.dev/mattn/articles/3290149a6fc18c), 2021/7/10, mattn
 - [Rustによる機械学習概覧を技術書典11に寄稿するまでの軌跡](https://vaaaaaanquish.hatenablog.com/entry/2021/07/10/110000), 2021/7/10, vaaaaaanquish
-
 
 ### 事例
 
