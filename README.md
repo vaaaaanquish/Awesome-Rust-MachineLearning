@@ -383,6 +383,7 @@ Looks good `border`.
 - [State of Machine Learning in Rust – Ehsan's Blog](https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/), 2019/5/13, Published by Ehsan
 - [Ritchie Vink, Machine Learning Engineer, writes Polars, one of the fastest DataFrame libraries in Python and Rust](https://www.xomnia.com/post/ritchie-vink-writes-polars-one-of-the-fastest-dataframe-libraries-in-python-and-rust/), Xomnia, 2021/5/11
 - [Quickwit: A highly cost-efficient search engine in Rust](https://quickwit.io/blog/quickwit-first-release/), 2021/7/13, quickwit, PAUL MASUREL
+- [Data Manipulation: Polars vs Rust](https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8), 2021/3/13, Xavier Tao
 
 
 ### Tutorial
@@ -399,7 +400,8 @@ Looks good `border`.
 - [Machine Learning and Rust (Part 3): Smartcore, Dataframe, and Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60), Level Up Coding, 2021/7/1, Stefano Bosisio 
 - [Tensorflow Rust Practical Part 1](https://www.programmersought.com/article/18696273900/), Programmer Sought, 2018
 - [A Machine Learning introduction to ndarray](https://barcelona.rustfest.eu/sessions/machine-learning-ndarray), RustFest 2019, 2019/11/12, [Luca Palmieri](https://github.com/LukeMathWalker)
-- [Data Manipulation: Polars vs Rust](https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8), 2021/3/13, Xavier Tao
+- [Simple Linear Regression from scratch in Rust](https://cheesyprogrammer.com/2018/12/13/simple-linear-regression-from-scratch-in-rust/), Web Development, Software Architecture, Algorithms and more, 2018/12/13, philipp
+- [Interactive Rust in a REPL and Jupyter Notebook with EVCXR](https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/), Depth-First, 2020/9/21, Richard L. Apodaca
 
 
 ### Apply
