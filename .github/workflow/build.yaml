@@ -1,0 +1,23 @@
+name: github pages build
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git rm docs/*
+          npm run build
+          git add docs/*
+          git commit -m 'ci build'
+          git push
