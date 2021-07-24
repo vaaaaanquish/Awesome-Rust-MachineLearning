@@ -72,7 +72,7 @@ It's a list with the major items at the top.
 
 Most things use `ndarray` or `std::vec`. Also look at `nalgebra`.
 
-ndarray vs nalgebra - reddit https://www.reddit.com/r/rust/comments/btn1cz/ndarray_vs_nalgebra/
+ref: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/btn1cz/ndarray_vs_nalgebra/)
 
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
@@ -130,7 +130,6 @@ Machine learning models may be used to process NLP.
 - [CurrySoftware/rust-stemmers](https://github.com/CurrySoftware/rust-stemmers) - Common stop words in a variety of languages
 - [cmccomb/rust-stop-words](https://github.com/cmccomb/rust-stop-words) - Common stop words in a variety of languages
 - [Freyskeyd/nlp](https://github.com/Freyskeyd/nlp) - Rust-nlp is a library to use Natural Language Processing algorithm with RUST
-
 
 
 ## Graph
