@@ -1,3 +1,4 @@
+// https://stackoverflow.com/a/51003410
 import React, { Component } from 'react'
 import ReactMarkdown from 'react-markdown'
 import termsFrPath from './README.md'
@@ -18,7 +19,7 @@ class TopLayout extends Component {
   render() {
     return (
       <div className="content">
-        <ReactMarkdown source={this.state.terms} />
+        <ReactMarkdown children={this.state.terms} />
       </div>
     )
   }
