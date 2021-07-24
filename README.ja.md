@@ -2,6 +2,8 @@
 
 日本語向けのrustクレートや記事等をまとめたもの
 
+- For English: [README.md](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.md)
+- For Japanese: [README.ja.md](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md)
 
 # Undercarriage
 
