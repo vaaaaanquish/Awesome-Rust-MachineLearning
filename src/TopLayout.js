@@ -13,7 +13,7 @@ function flatten(text, child) {
 function HeadingRenderer(props) {
     var children = React.Children.toArray(props.children)
     var text = children.reduce(flatten, '')
-    var slug = text.toLowerCase().replace(/\(|\)|\&/g, '').replace(/\W/g, '-')
+    var slug = text.toLowerCase().replace(/\(|\)|&/g, '').replace(/\W/g, '-')
     return React.createElement('h' + props.level, {id: slug}, props.children)
 }
 
