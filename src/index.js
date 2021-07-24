@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import TopLayout from "./TopLayout";
 
 ReactDOM.render(
-    <h1>examples js</h1>,
+    <TopLayout />,
     document.getElementById('root')
 );
