@@ -1,0 +1,2 @@
+(this.webpackJsonpAwesomeRustMachineLearning=this.webpackJsonpAwesomeRustMachineLearning||[]).push([[0],{4:function(e,n,s){"use strict";s.r(n);s(0);var t=s(2),a=s.n(t),c=s(3);a.a.render(Object(c.jsx)("h1",{children:"examples js"}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.08ee3464.chunk.js.map
