@@ -38,7 +38,7 @@ class TopLayout extends Component {
   render() {
     return (
       <div className="content">
-        <ReactMarkdown children={this.state.terms} components={{
+        <ReactMarkdown children={this.state.terms} escapeHtml={false} components={{
             h1: HeadingRenderer,
             h2: HeadingRenderer,
             h3: HeadingRenderer,
