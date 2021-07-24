@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["ReactDOM","render","document","getElementById"],"mappings":"wIAAA,uCAGAA,IAASC,OACL,6CACAC,SAASC,eAAe,W","file":"static/js/main.08ee3464.chunk.js","sourcesContent":["import React from 'react';\nimport ReactDOM from 'react-dom';\n\nReactDOM.render(\n    <h1>examples js</h1>,\n    document.getElementById('root')\n);\n"],"sourceRoot":""}
