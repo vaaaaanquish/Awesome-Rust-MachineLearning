@@ -18,7 +18,7 @@ function HeadingRenderer(props) {
 }
 
 function changeURL(text) {
-    var rt = text.replace(/(github.com\/vaaaaanquish)\/(.*#.*)/g, 'vaaaaanquish.github.io/$2')
+    var rt = text.replace(/(https:\/\/github.com\/vaaaaanquish.*)#(.*)/g, '#$2')
     return rt
 }
 
@@ -38,7 +38,7 @@ class TopLayout extends Component {
   render() {
     return (
       <div className="content">
-        <ReactMarkdown children={this.state.terms} escapeHtml={false} components={{
+        <ReactMarkdown children={this.state.terms} components={{
             h1: HeadingRenderer,
             h2: HeadingRenderer,
             h3: HeadingRenderer,
