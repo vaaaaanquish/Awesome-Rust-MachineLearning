@@ -38,7 +38,7 @@ class TopLayout extends Component {
   render() {
     return (
       <div className="content">
-        <ReactMarkdown children={this.state.terms} linkTarget='_blank' components={{
+        <ReactMarkdown children={this.state.terms} components={{
             h1: HeadingRenderer,
             h2: HeadingRenderer,
             h3: HeadingRenderer,
