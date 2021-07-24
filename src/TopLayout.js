@@ -22,6 +22,24 @@ function changeURL(text) {
     return rt
 }
 
+const styleButton = {
+    margin: 0,
+    top: 'auto',
+    right: 20,
+    bottom: 20,
+    left: 'auto',
+    position: 'fixed',
+    borderRadius: '50%',
+    height: '50px',
+    width: '50px',
+};
+
+const styleLink = {
+    display: 'block',
+    height: '100%',
+    paddingTop: '15px',
+};
+
 class TopLayout extends Component {
   constructor(props) {
     super(props)
@@ -44,6 +62,7 @@ class TopLayout extends Component {
             h3: HeadingRenderer,
             h4: HeadingRenderer
             }}/>
+      <button style={styleButton}><a href='#awesome-rust-machinelearning' style={styleLink}>Top</a></button>
       </div>
     )
   }
