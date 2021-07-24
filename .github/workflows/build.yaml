@@ -16,8 +16,8 @@ jobs:
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git rm docs/*
+          git rm -r docs/*
           npm run build
-          git add docs/*
+          git add docs/
           git commit -m 'ci build'
           git push
