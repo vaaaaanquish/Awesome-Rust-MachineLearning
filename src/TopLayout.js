@@ -18,7 +18,7 @@ function HeadingRenderer(props) {
 }
 
 function changeURL(text) {
-    var rt = text.replace(/(github.com\/vaaaaanquish.*)#(.*)/g, '#$2')
+    var rt = text.replace(/(https:\/\/github.com\/vaaaaanquish.*)#(.*)/g, '#$2')
     return rt
 }
 
