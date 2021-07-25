@@ -1,5 +1,3 @@
-![arml](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/public/img/arml.png?raw=true)
-
 # Awesome-Rust-MachineLearning
 
 Awesome Rust Machine Learning crate list that writing this with the idea of migrating from Python.
