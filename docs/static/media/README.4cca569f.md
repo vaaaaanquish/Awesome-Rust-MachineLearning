@@ -6,8 +6,9 @@ And reference of Machine Learning using Rust (blog, book, movie, discussion, ...
 
 It's a list with the major items at the top.
 
-- For English: [README.md](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.md)
-- For Japanese: [README.ja.md](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md)
+- For English: [web page](https://vaaaaanquish.github.io/Awesome-Rust-MachineLearning)
+- For English: [README.md (GitHub)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.md)
+- For Japanese: [README.ja.md (GitHub)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md)
 
 
 # ToC
