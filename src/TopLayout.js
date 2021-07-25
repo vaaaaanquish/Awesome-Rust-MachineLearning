@@ -62,7 +62,7 @@ class TopLayout extends Component {
             h2: HeadingRenderer,
             h3: HeadingRenderer,
             h4: HeadingRenderer,
-            img: ({node, ...props}) => <img alt='arml' style={{width: '70%'}} {...props} />
+            img: ({node, ...props}) => <img id='awesome-rust-machinelearning' alt='arml' style={{width: '100%'}} {...props} />
             }}/>
       <button style={styleButton}><a href='#awesome-rust-machinelearning' style={styleLink}>Top</a></button>
       </div>
