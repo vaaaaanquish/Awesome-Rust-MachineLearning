@@ -25,19 +25,19 @@ function changeURL(text) {
 const styleButton = {
     margin: 0,
     top: 'auto',
-    right: 20,
-    bottom: 20,
+    right: 40,
+    bottom: 40,
     left: 'auto',
     position: 'fixed',
     borderRadius: '50%',
-    height: '50px',
-    width: '50px',
+    height: '100px',
+    width: '100px',
 };
 
 const styleLink = {
     display: 'block',
     height: '100%',
-    paddingTop: '15px',
+    paddingTop: '40px',
 };
 
 class TopLayout extends Component {
