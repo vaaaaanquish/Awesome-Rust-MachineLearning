@@ -1,5 +1,7 @@
 # Awesome-Rust-MachineLearning
 
+![arml](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/public/img/arml.png?raw=true)
+
 Awesome Rust Machine Learning crate list that writing this with the idea of migrating from Python.
 
 And reference of Machine Learning using Rust (blog, book, movie, discussion, ...and more).
