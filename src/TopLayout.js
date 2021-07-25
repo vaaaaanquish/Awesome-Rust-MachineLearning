@@ -37,7 +37,8 @@ const styleButton = {
 const styleLink = {
     display: 'block',
     height: '100%',
-    paddingTop: '40px',
+    paddingTop: '25px',
+    fontSize: '40px',
 };
 
 class TopLayout extends Component {
@@ -60,7 +61,8 @@ class TopLayout extends Component {
             h1: HeadingRenderer,
             h2: HeadingRenderer,
             h3: HeadingRenderer,
-            h4: HeadingRenderer
+            h4: HeadingRenderer,
+            img: ({node, ...props}) => <img style={{width: '70%'}} {...props} />
             }}/>
       <button style={styleButton}><a href='#awesome-rust-machinelearning' style={styleLink}>Top</a></button>
       </div>
