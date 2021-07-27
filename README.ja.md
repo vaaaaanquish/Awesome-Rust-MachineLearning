@@ -36,6 +36,9 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [Rustで扱える機械学習関連のクレート2021](https://vaaaaaanquish.hatenablog.com/entry/2021/01/23/233113), 2021/1/23, vaaaaaanquish
 - [Rust の機械学習ライブラリ smartcore に入門してみた](https://zenn.dev/mattn/articles/3290149a6fc18c), 2021/7/10, mattn
 - [Rustによる機械学習概覧を技術書典11に寄稿するまでの軌跡](https://vaaaaaanquish.hatenablog.com/entry/2021/07/10/110000), 2021/7/10, vaaaaaanquish
+- [バンディッドアルゴリズム(Epsilon-greedy)の実装](https://dev.classmethod.jp/articles/bandit/), 2021/7/16, DevelopersIO, 中村 修太
+- [SmartCoreでペンギンの分類をやってみる](https://dev.classmethod.jp/articles/smartcore-palmer/), 2021/7/27, DevelopersIO, 中村 修太
+
 
 ### 事例
 
