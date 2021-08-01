@@ -147,6 +147,7 @@ Machine learning models may be used to process NLP.
 - [tangramxyz/tangram](https://github.com/tangramxyz/tangram) - Tangram is an all-in-one automated machine learning framework. https://github.com/tangramxyz/tangram
 - [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust
 - [mstallmo/tensorrt-rs](https://github.com/mstallmo/tensorrt-rs) - Rust library for running TensorRT accelerated deep learning models
+- [pipehappy1/tensorboard-rs](https://github.com/pipehappy1/tensorboard-rs) - Write TensorBoard events in Rust.
 - [ehsanmok/tvm-rust](https://github.com/ehsanmok/tvm-rust) - Rust bindings for TVM runtime
 - [vertexclique/orkhon](https://github.com/vertexclique/orkhon) - Orkhon: ML Inference Framework and Server Runtime
 - [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet) - Xaynet represents an agnostic Federated Machine Learning framework to build privacy-preserving AI applications
