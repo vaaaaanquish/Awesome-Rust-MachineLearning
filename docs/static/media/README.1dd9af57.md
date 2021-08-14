@@ -390,6 +390,7 @@ Looks good `border`.
 - [Ritchie Vink, Machine Learning Engineer, writes Polars, one of the fastest DataFrame libraries in Python and Rust](https://www.xomnia.com/post/ritchie-vink-writes-polars-one-of-the-fastest-dataframe-libraries-in-python-and-rust/), Xomnia, 2021/5/11
 - [Quickwit: A highly cost-efficient search engine in Rust](https://quickwit.io/blog/quickwit-first-release/), 2021/7/13, quickwit, PAUL MASUREL
 - [Data Manipulation: Polars vs Rust](https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8), 2021/3/13, Xavier Tao
+- [Check out Rust in Production](https://serokell.io/blog/rust-in-production-qovery), 2021/8/10, Qovery, @serokell
 
 
 ### Tutorial
@@ -418,6 +419,8 @@ Looks good `border`.
 - [A Simple Text Summarizer written in Rust](https://towardsdatascience.com/a-simple-text-summarizer-written-in-rust-4df05f9327a5), Towards Data Science, 2020/11/24, [Charles Chan](https://chancharles.medium.com/), Examples of Text Sentence Vector, Cosine Distance and PageRank
 - [Extracting deep learning image embeddings in Rust](https://logicai.io/blog/extracting-image-embeddings/), RecoAI, 2021/6/1, Paweł Jankiewic, Examples of ONNX
 - [Deep Learning in Rust with GPU](https://able.bio/haixuanTao/deep-learning-in-rust-with-gpu--26c53a7f), 2021/7/30, Xavier Tao
+- [tch-rs pretrain example - Docker for PyTorch rust bindings tch-rs. Example of pretrain model](https://github.com/vaaaaanquish/tch-rs-pretrain-example-docker), 2021/8/15, vaaaaanquish
+- [Rust ANN search Example - Image search example by approximate nearest-neighbor library In Rust](https://github.com/vaaaaanquish/rust-ann-search-example), 2021/8/15, vaaaaanquish
 
 
 ### Case study
