@@ -38,6 +38,8 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [Rustによる機械学習概覧を技術書典11に寄稿するまでの軌跡](https://vaaaaaanquish.hatenablog.com/entry/2021/07/10/110000), 2021/7/10, vaaaaaanquish
 - [バンディッドアルゴリズム(Epsilon-greedy)の実装](https://dev.classmethod.jp/articles/bandit/), 2021/7/16, DevelopersIO, 中村 修太
 - [SmartCoreでペンギンの分類をやってみる](https://dev.classmethod.jp/articles/smartcore-palmer/), 2021/7/27, DevelopersIO, 中村 修太
+- [Pure Rustな近似最近傍探索ライブラリhoraを用いた画像検索を実装する](https://vaaaaaanquish.hatenablog.com/entry/2021/08/10/065117), 2021/8/10, vaaaaaanquish
+- [WebAssemblyを用いてBERTモデルをフロントエンドで動かす](https://tech-blog.optim.co.jp/entry/2021/08/13/100000), 2021/8/13, OPTiM
 
 
 ### 事例
