@@ -248,6 +248,7 @@ Tensorflow or Pythorch are the most common.
 - [sakex/neat-gru-rust](https://github.com/sakex/neat-gru-rust) - neat-gru
 - [nerosnm/n2](https://github.com/nerosnm/n2) - (Work-in-progress) library implementation of a feedforward, backpropagation artificial neural network
 - [Wuelle/deep_thought](https://github.com/Wuelle/deep_thought) - Neural Networks in Rust
+- [MikhailKravets/NeuroFlow](https://github.com/MikhailKravets/NeuroFlow) - Awesome deep learning crate
 
 
 # Graph Model
