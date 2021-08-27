@@ -342,6 +342,7 @@ Looks good `border`.
 - [ralfbiedert/ffsvm-rust](https://github.com/ralfbiedert/ffsvm-rust) - FFSVM stands for "Really Fast Support Vector Machine"
 - [zenoxygen/bayespam](https://github.com/zenoxygen/bayespam) - A simple bayesian spam classifier written in Rust.
 - [Rui_Vieira/naive-bayesnaive-bayes](https://gitlab.com/ruivieira/naive-bayes) - A Naive Bayes classifier written in Rust.
+- [Rui_Vieira/random-forests](https://gitlab.com/ruivieira/random-forests) - A Rust library for Random Forests.
 - [sile/randomforest](https://github.com/sile/randomforest) - A random forest implementation in Rust
 - [tomtung/craftml-rs](https://github.com/tomtung/craftml-rs) - A Rust🦀 implementation of CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning
 
@@ -349,6 +350,7 @@ Looks good `border`.
 # Unsupervised Learning & Clustering Model
 
 - [frjnn/bhtsne](https://github.com/frjnn/bhtsne) - Barnes-Hut t-SNE implementation written in Rust.
+- [vaaaaanquish/label-propagation-rs](https://github.com/vaaaaanquish/label-propagation-rs) - Label Propagation Algorithm by Rust. Label propagation (LP) is graph-based semi-supervised learning (SSL). LGC and CAMLP have been implemented.
 - [nmandery/extended-isolation-forest](https://github.com/nmandery/extended-isolation-forest) - Rust port of the extended isolation forest algorithm for anomaly detection
 - [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) - Rust library for Self Organising Maps (SOM).
 - [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust.
@@ -439,6 +441,7 @@ Looks good `border`.
 - [Production users - Rust Programming Language](https://www.rust-lang.org/production/users), by rust-lang.org
 - [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/), A LEARNING JOURNAL, 2019/12/1, [@algo_luca](https://twitter.com/algo_luca)
 - [9 Companies That Use Rust in Production](https://serokell.io/blog/rust-companies), serokell, 2020/11/18, Gints Dreimanis
+- [Masked Language Model on Wasm, BERT on flontend examples](https://github.com/optim-corp/masked-lm-wasm/), optim-corp/masked-lm-wasm, 2021/8/27, Optim
 
 
 ## Discussion
@@ -450,6 +453,7 @@ Looks good `border`.
 - [ndarray vs nalgebra : rust](https://www.reddit.com/r/rust/comments/btn1cz/ndarray_vs_nalgebra/), 2019/5/28
 - [Taking ML to production with Rust | Hacker News](https://news.ycombinator.com/item?id=21680965), 2019/12/2
 - [Who is using Rust for Machine learning in production/research? : rust](https://www.reddit.com/r/rust/comments/fvehyq/d_who_is_using_rust_for_machine_learning_in/), 2020/4/5
+- [Deep Learning in Rust](https://www.reddit.com/r/rust/comments/igz8iv/deep_learning_in_rust/), 2020/8/26
 - [SmartCore, fast and comprehensive machine learning library for Rust! : rust](https://www.reddit.com/r/rust/comments/j1mj1g/smartcore_fast_and_comprehensive_machine_learning/), 2020/9/29
 - [Deep Learning in Rust with GPU on ONNX](https://www.reddit.com/r/MachineLearning/comments/ouul33/d_p_deep_learning_in_rust_with_gpu_on_onnx/), 2021/7/31
 
@@ -468,9 +472,10 @@ Looks good `border`.
 ## Movie
 
 - [The /r/playrust Classifier: Real World Rust Data Science](https://www.youtube.com/watch?v=lY10kTcM8ek), RustConf 2016, 2016/10/05, Suchin Gururangan & Colin O'Brien
+- [Building AI Units in Rust](https://www.youtube.com/watch?v=UHFlKAmANJg), FOSSASIA 2018, 2018/3/25, Vigneshwer Dhinakaran 
+- [Python vs Rust for Simulation](https://www.youtube.com/watch?v=kytvDxxedWY), EuroPython 2019, 2019/7/10, Alisa Dammer
 - [Machine Learning is changing - is Rust the right tool for the job?](https://www.youtube.com/watch?v=odI_LY8AIqo), RustLab 2019, 2019/10/31, Luca Palmieri
 - [Using TensorFlow in Embedded Rust](https://www.youtube.com/watch?v=DUVE86yTfKU), 2020/09/29, Ferrous Systems GmbH, Richard Meadows
-- [Building AI Units in Rust](https://www.youtube.com/watch?v=UHFlKAmANJg), FOSSASIA 2018, 2018/3/25, Vigneshwer Dhinakaran 
 
 
 ## Paper

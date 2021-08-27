@@ -9,9 +9,10 @@
 
 ## Natural Language Processing (preprocessing)
 
-lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワークスが巻き取る形になったので今後に期待。
+lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワークスが巻き取る形になったので今後に期待。vaporettoはKyTeaの早いやつ。
 
 - [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
+- [legalforce-research/vaporetto](https://github.com/legalforce-research/vaporetto) - Vaporetto: Pointwise prediction based tokenizer
 - [sorami/sudachi.rs](https://github.com/sorami/sudachi.rs) - An unofficial Sudachi clone in Rust (incomplete) 🦀
 - [agatan/yoin](https://github.com/agatan/yoin) - A Japanese Morphological Analyzer written in pure Rust
 - [nakagami/awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
@@ -40,7 +41,7 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [SmartCoreでペンギンの分類をやってみる](https://dev.classmethod.jp/articles/smartcore-palmer/), 2021/7/27, DevelopersIO, 中村 修太
 - [Pure Rustな近似最近傍探索ライブラリhoraを用いた画像検索を実装する](https://vaaaaaanquish.hatenablog.com/entry/2021/08/10/065117), 2021/8/10, vaaaaaanquish
 - [WebAssemblyを用いてBERTモデルをフロントエンドで動かす](https://tech-blog.optim.co.jp/entry/2021/08/13/100000), 2021/8/13, OPTiM
-
+- [Rustでlabel propagationを実装した](https://vaaaaaanquish.hatenablog.com/entry/2021/08/27/062345), 2021/8/27, vaaaaaanquish
 
 ### 事例
 
