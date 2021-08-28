@@ -15,6 +15,7 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [legalforce-research/vaporetto](https://github.com/legalforce-research/vaporetto) - Vaporetto: Pointwise prediction based tokenizer
 - [sorami/sudachi.rs](https://github.com/sorami/sudachi.rs) - An unofficial Sudachi clone in Rust (incomplete) 🦀
 - [Yasu-umi/sudachiclone-rs](https://github.com/Yasu-umi/sudachiclone-rs) - sudachiclone-rs is a Rust version of Sudachi, a Japanese morphological analyzer.
+- [wareya/notmecab-rs](https://github.com/wareya/notmecab-rs) - notmecab-rs is a very basic mecab clone, designed only to do parsing, not training.
 - [agatan/yoin](https://github.com/agatan/yoin) - A Japanese Morphological Analyzer written in pure Rust
 - [nakagami/awabi](https://github.com/nakagami/awabi) - A morphological analyzer using mecab dictionary
 
