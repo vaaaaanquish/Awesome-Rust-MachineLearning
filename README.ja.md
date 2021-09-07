@@ -46,7 +46,7 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [WebAssemblyを用いてBERTモデルをフロントエンドで動かす](https://tech-blog.optim.co.jp/entry/2021/08/13/100000), 2021/8/13, OPTiM
 - [Rustでlabel propagationを実装した](https://vaaaaaanquish.hatenablog.com/entry/2021/08/27/062345), 2021/8/27, vaaaaaanquish
 - [Rust×WASMに入門する(Linderaでブラウザから形態素解析)](https://shine-bal.hatenablog.com/entry/2021/08/15/210915), 2021/8/15
-
+- [axumとtch-rsでRustの画像認識APIを作る](https://vaaaaaanquish.hatenablog.com/entry/2021/09/07/141531), 2021/9/7, vaaaaaanquish
 
 
 ### 実装紹介
