@@ -2,7 +2,7 @@
 
 This repository is a list of machine learning libraries written in Rust.
 It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers.
-This repository is targeted at people who are thinking of migrating from Python.
+This repository is targeted at people who are thinking of migrating from Python. 🦀🐍
 
 It is divided into several basic library and algorithm categories.
 And it also contains libraries that are no longer maintained and small libraries.
