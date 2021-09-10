@@ -1,27 +1,33 @@
 ![arml](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/public/img/arml.png?raw=true)
 
-Awesome Rust Machine Learning crate list that writing this with the idea of migrating from Python.
+This repository is a list of machine learning libraries written in Rust.
+It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers.
+This repository is targeted at people who are thinking of migrating from Python.
 
-And reference of Machine Learning using Rust (blog, book, movie, discussion, ...and more).
+It is divided into several basic library and algorithm categories.
+And it also contains libraries that are no longer maintained and small libraries.
+It has commented on the helpful parts of the code.
+It also commented on good libraries within each category.
 
-It's a list with the major items at the top.
+We can find a better way to use Rust for Machine Learning.
 
-- For English: [web page](https://vaaaaanquish.github.io/Awesome-Rust-MachineLearning)
-- For English: [README.md (GitHub)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.md)
-- For Japanese: [README.ja.md (GitHub)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md)
+
+- [Website (en)](https://vaaaaanquish.github.io/Awesome-Rust-MachineLearning)
+- [GitHub (en)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.md)
+- [GitHub (ja)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md)
 
 
 # ToC
 
-- [Undercarriage](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#undercarriage)
+- [Support Tools](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#support-tools)
     - [Jupyter Notebook](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#jupyter-notebook)
-    - [Plot](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#plot)
+    - [Graph Plot](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph-plot)
     - [Vector](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#vector)
     - [Dataframe](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#dataframe)
     - [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing)
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
-    - [Graph](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph)
-    - [Interface & pipeline & AutoML](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface--pipeline--automl)
+    - [Graphical Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graphical-model)
+    - [Interface & Pipeline & AutoML](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface--pipeline--automl)
     - [Workflow](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#workflow)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
 - [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics)
@@ -53,15 +59,20 @@ It's a list with the major items at the top.
 
 
 
-# Undercarriage
+# Support Tools
+
 
 ## Jupyter Notebook
+
+`evcxr` can be handled as Jupyter Kernel or REPL. It is helpful for learning and validation.
 
 - [google/evcxr](https://github.com/google/evcxr) - An evaluation context for Rust.
 - [emakryo/rustdef](https://github.com/emakryo/rustdef) - Jupyter extension for rust.
 
 
-## Plot
+## Graph Plot
+
+It might want to try `plotters` for now.
 
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
@@ -71,9 +82,10 @@ It's a list with the major items at the top.
 
 ## Vector
 
-Most things use `ndarray` or `std::vec`. Also look at `nalgebra`.
+Most things use `ndarray` or `std::vec`. 
 
-ref: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/btn1cz/ndarray_vs_nalgebra/)
+Also, look at `nalgebra`. When the size of the matrix is known, it is valid.
+See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/btn1cz/ndarray_vs_nalgebra/)
 
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
@@ -85,8 +97,7 @@ ref: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/btn1c
 
 ## Dataframe
 
-Mainstream is `polars` using arrow.
-`datafusion` looks good too.
+It might want to try `polars` for now. `datafusion` looks good too.
 
 - [ritchie46/polars](https://github.com/ritchie46/polars) - Rust DataFrame library
 - [apache/arrow](https://github.com/apache/arrow/tree/master/rust) - In-memory columnar format, in Rust.
@@ -98,6 +109,8 @@ Mainstream is `polars` using arrow.
 
 ## Image Processing
 
+It might want to try `image-rs` for now. Algorithms such as linear transformations are implemented in other libraries as well.
+
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
     - [image-rs/imageproc](https://github.com/image-rs/imageproc) - Image processing operations
 - [rust-cv/ndarray-image](https://github.com/rust-cv/ndarray-image) - Allows conversion between ndarray's types and image's types
@@ -107,11 +120,6 @@ Mainstream is `polars` using arrow.
 
 
 ## Natural Language Processing (preprocessing)
-
-There is also the familiar `huggingface/tokenizers` in Python. 
-In `rs-natural`, addition to Tokenize, Distance, NGrams, Naive-Bayes and TF-IDF can also be used.
-Machine learning models may be used to process NLP.
-
 
 - [google-research/deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) - This repository contains code to deduplicate language model datasets as descrbed in the paper "Deduplicating Training Data Makes Language Models Better" by Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Callison-Burch and Nicholas Carlini. This repository contains both the ExactSubstr deduplication implementation (written in Rust) along with the scripts we used in the paper to perform deduplication and inspect the results (written in Python). In an upcoming update, we will add files to reproduce the NearDup-deduplicated versions of the C4, RealNews, LM1B, and Wiki-40B-en datasets.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - 👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike
@@ -133,8 +141,7 @@ Machine learning models may be used to process NLP.
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 
 
-
-## Graph
+## Graphical Model
 
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
@@ -160,9 +167,10 @@ Machine learning models may be used to process NLP.
 - [substantic/rain](https://github.com/substantic/rain) - Framework for large distributed pipelines
 - [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline
 
+
 # Comprehensive (like sklearn)
 
-Many libraries support the following.
+All libraries support the following algorithms.
 
 - Linear Regression
 - Logistic Regression
@@ -180,7 +188,8 @@ Many libraries support the following.
 - Naive Bayes
 - Elastic Net
 
-It writes down the features.
+
+It might want to try `smartcore` or `linfa` for now.
 
 - [smartcorelib/smartcore](https://github.com/smartcorelib/smartcore) - SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning.
     - LASSO, Ridge, Random Forest, LU, QR, SVD, EVD, and more metrics
@@ -201,8 +210,6 @@ It writes down the features.
 
 # Comprehensive (Statistics)
 
-Optimize, Automatic Differentiation, Numerical Analysis, Statistics, ... and more
-
 - [statrs-dev/statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust
 - [rust-ndarray/ndarray-stats](https://github.com/rust-ndarray/ndarray-stats) - Statistical routines for ndarray
 - [Axect/Peroxide](https://github.com/Axect/Peroxide) - Rust numeric library with R, MATLAB & Python syntax
@@ -212,19 +219,17 @@ Optimize, Automatic Differentiation, Numerical Analysis, Statistics, ... and mor
 
 # Gradient Boosting
 
-catboost is for predict only.
-
 - [mesalock-linux/gbdt-rs](https://github.com/mesalock-linux/gbdt-rs) - MesaTEE GBDT-RS : a fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
 - [davechallis/rust-xgboost](https://github.com/davechallis/rust-xgboost) - Rust bindings for XGBoost.
 - [vaaaaanquish/lightgbm-rs](https://github.com/vaaaaanquish/lightgbm-rs) - LightGBM Rust binding
-- [catboost/catboost](https://github.com/catboost/catboost/tree/master/catboost/rust-package) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks
+- [catboost/catboost](https://github.com/catboost/catboost/tree/master/catboost/rust-package) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks (predict only)
 - [Entscheider/stamm](https://github.com/entscheider/stamm) - Generic decision trees for rust
 
 
 # Deep Neural Network
 
-Tensorflow or Pythorch are the most common.
-`tch-rs` also includes torch vision.
+`Tensorflow bindings` and `PyTorch bindings` are the most common.
+`tch-rs` also has torch vision, which is useful.
 
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
@@ -273,8 +278,6 @@ Tensorflow or Pythorch are the most common.
 
 # Recommendation
 
-For Matrix Factorization, you can use rustlearn.
-
 - [jackgerrits/vowpalwabbit-rs](https://github.com/jackgerrits/vowpalwabbit-rs) - 🦀🐇 Rusty VowpalWabbit
 - [outbrain/fwumious_wabbit](https://github.com/outbrain/fwumious_wabbit) - Fwumious Wabbit, fast on-line machine learning toolkit written in Rust
 - [hja22/rucommender](https://github.com/hja22/rucommender) - Rust implementation of user-based collaborative filtering
@@ -304,8 +307,6 @@ For Matrix Factorization, you can use rustlearn.
 
 ## Nearest Neighbor Search
 
-ANN search (approximate nearest neighbor), hashing, dimensional tree, etc...
-
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [rust-cv/hnsw](https://github.com/rust-cv/hnsw) - HNSW ANN from the paper "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs"
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀 efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀. horasearch.com
@@ -324,8 +325,6 @@ ANN search (approximate nearest neighbor), hashing, dimensional tree, etc...
 
 
 # Reinforcement Learning
-
-Looks good `border`.
 
 - [taku-y/border](https://github.com/taku-y/border) - Border is a reinforcement learning library in Rust.
 - [NivenT/REnforce](https://github.com/NivenT/REnforce) - Reinforcement learning library written in Rust
@@ -490,14 +489,14 @@ Looks good `border`.
 
 # How to contribution
 
-Please update README.md.
+Please just update the README.md.
 
-CI will run automatically when you update this README.md.
+If you update this README.md, CI will be executed automatically.
+And the website will also be updated.
 
 
 # Thanks
 
 Thanks for all the projects.
 
-
-GitHub: [https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)
+[https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)
