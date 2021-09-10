@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Awesome-Rust-MachineLearning/static/js/main.2c65ae96.chunk.js",
-    "main.js.map": "/Awesome-Rust-MachineLearning/static/js/main.2c65ae96.chunk.js.map",
+    "main.js": "/Awesome-Rust-MachineLearning/static/js/main.23594e6d.chunk.js",
+    "main.js.map": "/Awesome-Rust-MachineLearning/static/js/main.23594e6d.chunk.js.map",
     "runtime-main.js": "/Awesome-Rust-MachineLearning/static/js/runtime-main.43f65b28.js",
     "runtime-main.js.map": "/Awesome-Rust-MachineLearning/static/js/runtime-main.43f65b28.js.map",
     "static/js/2.3411206e.chunk.js": "/Awesome-Rust-MachineLearning/static/js/2.3411206e.chunk.js",
     "static/js/2.3411206e.chunk.js.map": "/Awesome-Rust-MachineLearning/static/js/2.3411206e.chunk.js.map",
     "index.html": "/Awesome-Rust-MachineLearning/index.html",
     "static/js/2.3411206e.chunk.js.LICENSE.txt": "/Awesome-Rust-MachineLearning/static/js/2.3411206e.chunk.js.LICENSE.txt",
-    "static/media/README.9814eff3.md": "/Awesome-Rust-MachineLearning/static/media/README.9814eff3.md"
+    "static/media/README.00c4c63c.md": "/Awesome-Rust-MachineLearning/static/media/README.00c4c63c.md"
   },
   "entrypoints": [
     "static/js/runtime-main.43f65b28.js",
     "static/js/2.3411206e.chunk.js",
-    "static/js/main.2c65ae96.chunk.js"
+    "static/js/main.23594e6d.chunk.js"
   ]
 }
