@@ -76,6 +76,7 @@ It might want to try `plotters` for now.
 
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
+- [procyon-rs/showata](https://github.com/procyon-rs/showata) - A library of to show data (in browser, evcxr_jupyter) as table, chart...
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
 - [SiegeLord/RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - A Rust library for drawing plots, powered by Gnuplot.
 
@@ -472,6 +473,13 @@ It might want to try `smartcore` or `linfa` for now.
     - Implement NLP and computer vision in Rust
     - Deploy your code in the cloud and on bare metal servers
     - source code: [Apress/practical-machine-learning-w-rust](https://github.com/Apress/practical-machine-learning-w-rust)
+- [DATA ANALYSIS WITH RUST NOTEBOOKS](https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/), 2021/9/3, Shahin Rostami
+    - Plotting with Plotters and Plotly
+    - Operations with ndarray
+    - Descriptive Statistics
+    - Interactive Diagram
+    - Visualisation of Co-occurring Types
+    - download source code and dataset
 
 
 ## Movie
