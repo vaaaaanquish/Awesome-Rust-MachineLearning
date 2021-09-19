@@ -107,6 +107,7 @@ It might want to try `polars` for now. `datafusion` looks good too.
 - [milesgranger/black-jack](https://github.com/milesgranger/black-jack) - DataFrame / Series data processing in Rust
 - [nevi-me/rust-dataframe](https://github.com/nevi-me/rust-dataframe) - A Rust DataFrame implementation, built on Apache Arrow
 - [kernelmachine/utah](https://github.com/kernelmachine/utah) - Dataframe structure and operations in Rust
+- [sinhrks/brassfibre](https://github.com/sinhrks/brassfibre) - Provides multiple-dtype columner storage, known as DataFrame in pandas/R
 
 
 ## Image Processing
@@ -208,6 +209,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [benjarison/eval-metrics](https://github.com/benjarison/eval-metrics) - Evaluation metrics for machine learning
     - Many evaluation functions
 - [blue-yonder/vikos](https://github.com/blue-yonder/vikos) - A machine learning library for supervised training of parametrized models
+- [mbillingr/openml-rust](https://github.com/mbillingr/openml-rust) - A rust interface to http://openml.org/
 
 
 # Comprehensive (Statistics)
@@ -462,7 +464,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [SmartCore, fast and comprehensive machine learning library for Rust! : rust](https://www.reddit.com/r/rust/comments/j1mj1g/smartcore_fast_and_comprehensive_machine_learning/), 2020/9/29
 - [Deep Learning in Rust with GPU on ONNX](https://www.reddit.com/r/MachineLearning/comments/ouul33/d_p_deep_learning_in_rust_with_gpu_on_onnx/), 2021/7/31
 - [I wanted to share my experience of Rust as a deep learning researcher](https://www.reddit.com/r/rust/comments/pft9n9/i_wanted_to_share_my_experience_of_rust_as_a_deep/), 2021/9/2
-
+- [How far along is the ML ecosystem with Rust?](https://www.reddit.com/r/rust/comments/poglgg/how_far_along_is_the_ml_ecosystem_with_rust/), 2021/9/15
 
 ## Books
 
@@ -489,6 +491,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Python vs Rust for Simulation](https://www.youtube.com/watch?v=kytvDxxedWY), EuroPython 2019, 2019/7/10, Alisa Dammer
 - [Machine Learning is changing - is Rust the right tool for the job?](https://www.youtube.com/watch?v=odI_LY8AIqo), RustLab 2019, 2019/10/31, Luca Palmieri
 - [Using TensorFlow in Embedded Rust](https://www.youtube.com/watch?v=DUVE86yTfKU), 2020/09/29, Ferrous Systems GmbH, Richard Meadows
+- [Writing the Fastest GBDT Library in Rust](https://www.youtube.com/watch?v=D1NAREuicNs), 2021/09/16, RustConf 2021, Isabella Tromba
 
 
 ## Paper
