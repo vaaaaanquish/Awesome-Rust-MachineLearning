@@ -72,6 +72,12 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [Full use of Rust on edge and cloud: AI and IoT use cases エッジとクラウドでRustを使いこなす ～AI/IoTでの事例～](https://rustfest.global/session/10-%E3%82%A8%E3%83%83%E3%82%B8%E3%81%A8%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%A7rust%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-%EF%BD%9Eai-iot%E3%81%A7%E3%81%AE%E4%BA%8B%E4%BE%8B%EF%BD%9E/), RUSTFEST, 2020/11/7, Mobility Technologies, tkat0
 
 
+### 書籍
+
+- [機械学習の炊いたん４。](https://techbookfest.org/product/5091623341916160), ml-titans, emergent, TensorFlow入門者がRustで推論実行するまで
+- [エムスリーテックブック#3](https://techbookfest.org/product/6378148180525056), エムスリーエンジニアリンググループ執筆部, vaaaaanquish, Rustによる機械学習概覧
+
+
 ### repo
 
 - [vaaaaanquish/wasm_lindera_example](https://github.com/vaaaaanquish/wasm_lindera_example) - rust + lindera + webassembly + next.js + typescriptで形態素解析するサンプル
