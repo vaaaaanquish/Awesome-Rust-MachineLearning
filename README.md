@@ -115,6 +115,7 @@ See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/
 
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
+- [AtheMathmo/rulinalg](https://github.com/AtheMathmo/rulinalg) - A linear algebra library written in Rust
 - [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) - Rust wrapper for ArrayFire
 - [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust)
 - [vbarrielle/sprs](https://github.com/vbarrielle/sprs) - sparse linear algebra library for rust
