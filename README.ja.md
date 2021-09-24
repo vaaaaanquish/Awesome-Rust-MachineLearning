@@ -31,6 +31,8 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [Rust で主成分分析](https://sinhrks.hatenablog.com/entry/2015/11/15/232129), 2015/11/15, StatsFragments
 - [Rust で階層的クラスタリング](https://sinhrks.hatenablog.com/entry/2015/11/21/000845), 2015/11/21, StatsFragments
 - [Rust で k-means クラスタリング](https://sinhrks.hatenablog.com/entry/2015/12/07/003842), 2015/12/7, StatsFragments
+- [Rustで機械学習（rusty-machine, RustGnuplot）](https://yoshitsugu.net/posts/2017-11-14-beginning-machine-learning-with-rust.html), 2017/11/14, TSUGULOG
+- [RustでMCMC(Metropolis-Hasting)](https://trap.jp/post/485/), 2017/12/26, 東京工業大学デジタル創作同好会traP
 - [RustでDeepLearning入門](https://qiita.com/ta_to_co/items/c5686bc702b9255b9c06), 2019/9/1, ta_to_co
 - [sudachi.rsを使って遊んでみる](https://clutte.red/blog/2020/04/play-with-sudachi-rs/), 2020/4/16, Cluttered Room
 - [RustのドローイングライブラリPlottersの紹介](https://lab.mo-t.com/blog/rust-plotters), MoT Lab, 2020/8/4, _tkato_
@@ -48,7 +50,7 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [Rustでlabel propagationを実装した](https://vaaaaaanquish.hatenablog.com/entry/2021/08/27/062345), 2021/8/27, vaaaaaanquish
 - [Rust×WASMに入門する(Linderaでブラウザから形態素解析)](https://shine-bal.hatenablog.com/entry/2021/08/15/210915), 2021/8/15
 - [axumとtch-rsでRustの画像認識APIを作る](https://vaaaaaanquish.hatenablog.com/entry/2021/09/07/141531), 2021/9/7, vaaaaaanquish
-
+- [Rustでグラフをplotするライブラリのまとめ](https://vaaaaaanquish.hatenablog.com/entry/2021/09/24/101607), 2021/9/24, vaaaaanquish
 
 ### 実装紹介
 
