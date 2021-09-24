@@ -76,10 +76,34 @@ It might want to try `plotters` for now.
 
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
-- [procyon-rs/showata](https://github.com/procyon-rs/showata) - A library of to show data (in browser, evcxr_jupyter) as table, chart...
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
-- [shahinrostami/chord_rs](https://github.com/shahinrostami/chord_rs) - Rust crate for creating beautiful interactive Chord Diagrams. Pro version available at https://m8.fyi/chord
+- [tiby312/poloto](https://github.com/tiby312/poloto) - A simple 2D plotting library that outputs graphs to SVG that can be styled using CSS.
+- [askanium/rustplotlib](https://github.com/askanium/rustplotlib) - A pure Rust visualization library inspired by D3.js
 - [SiegeLord/RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - A Rust library for drawing plots, powered by Gnuplot.
+- [saona-raimundo/preexplorer](https://github.com/saona-raimundo/preexplorer) - Externalize easily the plotting process from Rust to gnuplot.
+- [procyon-rs/vega_lite_4.rs](https://github.com/procyon-rs/vega_lite_4.rs) - rust api for vega-lite v4
+    - [procyon-rs/showata](https://github.com/procyon-rs/showata) - A library of to show data (in browser, evcxr_jupyter) as table, chart...
+- [coder543/dataplotlib](https://github.com/coder543/dataplotlib) - Scientific plotting library for Rust
+- [shahinrostami/chord_rs](https://github.com/shahinrostami/chord_rs) - Rust crate for creating beautiful interactive Chord Diagrams. Pro version available at https://m8.fyi/chord
+
+
+ASCII line graph:
+
+- [loony-bean/textplots-rs](https://github.com/loony-bean/textplots-rs) Terminal plotting library for Rust
+- [orhanbalci/rasciigraph](https://github.com/orhanbalci/rasciigraph) Zero dependency Rust crate to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+- [jakobhellermann/piechart](https://github.com/jakobhellermann/piechart) a rust crate for drawing fancy pie charts in the terminal
+- [milliams/plot](https://github.com/milliams/plot) Command-line plotting tool written in Rust
+
+
+Examples:
+
+- Plotters Developer's Guide - Plotter Developer's Guide [https://plotters-rs.github.io/book/intro/introduction.html](https://plotters-rs.github.io/book/intro/introduction.html)
+- Plotly.rs - Plotly.rs Book [https://igiagkiozis.github.io/plotly/content/plotly_rs.html](https://igiagkiozis.github.io/plotly/content/plotly_rs.html)
+- petgraph_review [https://timothy.hobbs.cz/rust-play/petgraph_review.html](https://timothy.hobbs.cz/rust-play/petgraph_review.html)
+- evcxr-jupyter-integration [https://plotters-rs.github.io/plotters-doc-data/evcxr-jupyter-integration.html](https://plotters-rs.github.io/plotters-doc-data/evcxr-jupyter-integration.html)
+- Rust for Data Science: Tutorial 1 - DEV Community [https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j](https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j)
+- Preface | Data Crayon [https://datacrayon.com/posts/programming/rust-notebooks/preface/](https://datacrayon.com/posts/programming/rust-notebooks/preface/)
+- Drawing SVG Graphs with Rust [https://cetra3.github.io/blog/drawing-svg-graphs-rust/](Drawing SVG Graphs with Rust https://cetra3.github.io/blog/drawing-svg-graphs-rust/)
 
 
 ## Vector
@@ -428,6 +452,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Simple Linear Regression from scratch in Rust](https://cheesyprogrammer.com/2018/12/13/simple-linear-regression-from-scratch-in-rust/), Web Development, Software Architecture, Algorithms and more, 2018/12/13, philipp
 - [Interactive Rust in a REPL and Jupyter Notebook with EVCXR](https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/), Depth-First, 2020/9/21, Richard L. Apodaca
 - [Rust for Data Science: Tutorial 1](https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j), dev, 2021/8/25, Davide Del Papa
+- [petgraph_review](https://timothy.hobbs.cz/rust-play/petgraph_review.html), 2019/10/11, Timothy Hobbs
 
 
 ### Apply
@@ -483,6 +508,8 @@ It might want to try `smartcore` or `linfa` for now.
     - Interactive Diagram
     - Visualisation of Co-occurring Types
     - download source code and dataset
+    - full text
+        - [https://datacrayon.com/posts/programming/rust-notebooks/preface/](https://datacrayon.com/posts/programming/rust-notebooks/preface/)
 
 
 ## Movie
