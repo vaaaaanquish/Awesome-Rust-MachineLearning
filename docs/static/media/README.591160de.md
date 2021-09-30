@@ -143,6 +143,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
     - [image-rs/imageproc](https://github.com/image-rs/imageproc) - Image processing operations
 - [rust-cv/ndarray-image](https://github.com/rust-cv/ndarray-image) - Allows conversion between ndarray's types and image's types
+- [rust-cv/cv](https://github.com/rust-cv/cv) - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 - [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
 - [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
 - [atomashpolskiy/rustface](https://github.com/atomashpolskiy/rustface) - Face detection library for the Rust programming language
@@ -434,6 +435,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Quickwit: A highly cost-efficient search engine in Rust](https://quickwit.io/blog/quickwit-first-release/), 2021/7/13, quickwit, PAUL MASUREL
 - [Data Manipulation: Polars vs Rust](https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8), 2021/3/13, Xavier Tao
 - [Check out Rust in Production](https://serokell.io/blog/rust-in-production-qovery), 2021/8/10, Qovery, @serokell
+- [Why I started Rust instead of stick to Python](https://medium.com/geekculture/why-i-started-rust-instead-of-stick-to-python-626bab07479a), 2021/9/26, Medium, Geek Culture, Marshal SHI
 
 
 ### Tutorial
@@ -492,6 +494,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Deep Learning in Rust with GPU on ONNX](https://www.reddit.com/r/MachineLearning/comments/ouul33/d_p_deep_learning_in_rust_with_gpu_on_onnx/), 2021/7/31
 - [I wanted to share my experience of Rust as a deep learning researcher](https://www.reddit.com/r/rust/comments/pft9n9/i_wanted_to_share_my_experience_of_rust_as_a_deep/), 2021/9/2
 - [How far along is the ML ecosystem with Rust?](https://www.reddit.com/r/rust/comments/poglgg/how_far_along_is_the_ml_ecosystem_with_rust/), 2021/9/15
+
 
 ## Books
 
