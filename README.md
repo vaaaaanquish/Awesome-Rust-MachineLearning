@@ -531,7 +531,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [End-to-end NLP Pipelines in Rust](https://www.aclweb.org/anthology/2020.nlposs-1.4.pdf), Proceedings of Second Workshop for NLP Open Source Software (NLP-OSS), pages 20–25 Virtual Conference, 2020/11/19, Guillaume Becquin
 
 
-# How to contribution
+# How to contribute
 
 Please just update the README.md.
 
