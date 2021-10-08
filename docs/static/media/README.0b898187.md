@@ -54,6 +54,7 @@ We can find a better way to use Rust for Machine Learning.
     - [Discussion](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#discussion)
     - [Books](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#books)
     - [Movie](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#movie)
+    - [PodCast](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#podcast)
     - [Paper](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#paper)
 - [Thanks](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#thanks)
 
@@ -456,6 +457,8 @@ It might want to try `smartcore` or `linfa` for now.
 - [Interactive Rust in a REPL and Jupyter Notebook with EVCXR](https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/), Depth-First, 2020/9/21, Richard L. Apodaca
 - [Rust for Data Science: Tutorial 1](https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j), dev, 2021/8/25, Davide Del Papa
 - [petgraph_review](https://timothy.hobbs.cz/rust-play/petgraph_review.html), 2019/10/11, Timothy Hobbs
+- [Rust for ML. Rust](https://medium.com/tempus-ex/rust-for-ml-fba0421b0959), Medium, Tempus Ex, 2021/8/1, Michael Naquin
+
 
 
 ### Apply
@@ -470,6 +473,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Rust ANN search Example - Image search example by approximate nearest-neighbor library In Rust](https://github.com/vaaaaanquish/rust-ann-search-example), 2021/8/15, vaaaaanquish
 - [dzamkov/deep-learning-test - Implementing deep learning in Rust using just a linear algebra library (nalgebra)](https://github.com/dzamkov/deep-learning-test), 2021/8/30, dzamkov
 - [vaaaaanquish/rust-machine-learning-api-example - The axum example that uses resnet224 to infer images received in base64 and returns the results.](https://github.com/vaaaaanquish/rust-machine-learning-api-example), 2021/9/7, vaaaaanquish
+- [Rust for Machine Learning: Benchmarking Performance in One-shot - A Rust implementation of Siamese Neural Networks for One-shot Image Recognition for benchmarking performance and results](https://utmist.gitlab.io/projects/rust-ml-oneshot/), UofT Machine Intelligence Student Team
 
 
 ### Case study
@@ -524,6 +528,22 @@ It might want to try `smartcore` or `linfa` for now.
 - [Machine Learning is changing - is Rust the right tool for the job?](https://www.youtube.com/watch?v=odI_LY8AIqo), RustLab 2019, 2019/10/31, Luca Palmieri
 - [Using TensorFlow in Embedded Rust](https://www.youtube.com/watch?v=DUVE86yTfKU), 2020/09/29, Ferrous Systems GmbH, Richard Meadows
 - [Writing the Fastest GBDT Library in Rust](https://www.youtube.com/watch?v=D1NAREuicNs), 2021/09/16, RustConf 2021, Isabella Tromba
+
+
+## PodCast
+
+- DATA SCIENCE AT HOME
+    - [Rust and machine learning #1 (Ep. 107)](https://datascienceathome.com/rust-and-machine-learning-1-ep-107/)
+    - [Rust and machine learning #2 with Luca Palmieri (Ep. 108)](https://datascienceathome.com/rust-and-machine-learning-2-with-luca-palmieri-ep-108/)
+    - [Rust and machine learning #3 with Alec Mocatta (Ep. 109)](https://datascienceathome.com/rust-and-machine-learning-3-with-alec-mocatta-ep-109/)
+    - [Rust and machine learning #4: practical tools (Ep. 110)](https://datascienceathome.com/rust-and-machine-learning-4-practical-tools-ep-110/)
+    - [Machine Learning in Rust: Amadeus with Alec Mocatta (Ep. 127)](https://datascienceathome.com/machine-learning-in-rust-amadeus-with-alec-mocatta-rb-ep-127/)
+    - [Rust and deep learning with Daniel McKenna (Ep. 135)](https://datascienceathome.com/rust-and-deep-learning/)
+    - [Is Rust flexible enough for a flexible data model? (Ep. 137)](https://datascienceathome.com/is-rust-flexible-enough-for-a-flexible-data-model-ep-137/)
+    - [Pandas vs Rust (Ep. 144)](https://datascienceathome.com/pandas-vs-rust-ep-144/)
+    - [Apache Arrow, Ballista and Big Data in Rust with Andy Grove (Ep. 145)](https://datascienceathome.com/apache-arrow-ballista-and-big-data-in-rust-with-andy-grove-ep-145/)
+    - [Polars: the fastest dataframe crate in Rust (Ep. 146)](https://datascienceathome.com/polars-the-fastest-dataframe-crate-in-rust-ep-146/)
+    - [Apache Arrow, Ballista and Big Data in Rust with Andy Grove RB (Ep. 160)](https://datascienceathome.com/apache-arrow-ballista-and-big-data-in-rust-with-andy-grove-rb-ep-160/)
 
 
 ## Paper
