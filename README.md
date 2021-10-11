@@ -129,7 +129,7 @@ See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/
 It might want to try `polars` for now. `datafusion` looks good too.
 
 - [ritchie46/polars](https://github.com/ritchie46/polars) - Rust DataFrame library
-- [apache/arrow](https://github.com/apache/arrow/tree/master/rust) - In-memory columnar format, in Rust.
+- [apache/arrow](https://github.com/apache/arrow-rs) - In-memory columnar format, in Rust.
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion and Ballista query engines
 - [milesgranger/black-jack](https://github.com/milesgranger/black-jack) - DataFrame / Series data processing in Rust
 - [nevi-me/rust-dataframe](https://github.com/nevi-me/rust-dataframe) - A Rust DataFrame implementation, built on Apache Arrow
