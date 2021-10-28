@@ -191,6 +191,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [vertexclique/orkhon](https://github.com/vertexclique/orkhon) - Orkhon: ML Inference Framework and Server Runtime
 - [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet) - Xaynet represents an agnostic Federated Machine Learning framework to build privacy-preserving AI applications
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+- [MegEngine/MegFlow](https://github.com/MegEngine/MegFlow) - Efficient ML solutions for long-tailed demands.
 
 
 ## Workflow
@@ -474,6 +475,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [dzamkov/deep-learning-test - Implementing deep learning in Rust using just a linear algebra library (nalgebra)](https://github.com/dzamkov/deep-learning-test), 2021/8/30, dzamkov
 - [vaaaaanquish/rust-machine-learning-api-example - The axum example that uses resnet224 to infer images received in base64 and returns the results.](https://github.com/vaaaaanquish/rust-machine-learning-api-example), 2021/9/7, vaaaaanquish
 - [Rust for Machine Learning: Benchmarking Performance in One-shot - A Rust implementation of Siamese Neural Networks for One-shot Image Recognition for benchmarking performance and results](https://utmist.gitlab.io/projects/rust-ml-oneshot/), UofT Machine Intelligence Student Team
+- [Why Wallaroo Moved From Pony To Rust](https://wallarooai.medium.com/why-wallaroo-moved-from-pony-to-rust-292e7339fc34), 2021/8/19, Wallaroo.ai
 
 
 ### Case study
@@ -496,6 +498,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Deep Learning in Rust](https://www.reddit.com/r/rust/comments/igz8iv/deep_learning_in_rust/), 2020/8/26
 - [SmartCore, fast and comprehensive machine learning library for Rust! : rust](https://www.reddit.com/r/rust/comments/j1mj1g/smartcore_fast_and_comprehensive_machine_learning/), 2020/9/29
 - [Deep Learning in Rust with GPU on ONNX](https://www.reddit.com/r/MachineLearning/comments/ouul33/d_p_deep_learning_in_rust_with_gpu_on_onnx/), 2021/7/31
+- [Rust vs. C++ the main differences between these popular programming languages](https://codilime.com/blog/rust-vs-cpp-the-main-differences-between-these-popular-programming-languages/), 2021/8/25
 - [I wanted to share my experience of Rust as a deep learning researcher](https://www.reddit.com/r/rust/comments/pft9n9/i_wanted_to_share_my_experience_of_rust_as_a_deep/), 2021/9/2
 - [How far along is the ML ecosystem with Rust?](https://www.reddit.com/r/rust/comments/poglgg/how_far_along_is_the_ml_ecosystem_with_rust/), 2021/9/15
 
