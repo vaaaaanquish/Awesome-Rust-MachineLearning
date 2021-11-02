@@ -67,7 +67,7 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [Rustで作る機械学習を用いた画像クロッピングシステム](https://ml-loft.connpass.com/event/157785/), ML@Loft #9, 2019/12/19, Cookpad, johshisha
 - [fnwiya/japanese-rust-companies: 日本で Rust を利用している会社一覧](https://github.com/fnwiya/japanese-rust-companies)
 - [WebAssemblyで機械学習Webアプリ「俺か俺以外か」をつくった](https://vaaaaaanquish.hatenablog.com/entry/2020/12/26/120837), 2020/12/26, vaaaaaanquish
-
+- [Amazon SageMakerを利用した効率的な機械学習 with Rust (SmartCore+actix-web)](https://spirits.appirits.com/role/engineer/16725/), 2021/11/2, アピリッツ浅田
 
 ### 動画
 
