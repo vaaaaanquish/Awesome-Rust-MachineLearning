@@ -288,11 +288,13 @@ It might want to try `smartcore` or `linfa` for now.
 - [nerosnm/n2](https://github.com/nerosnm/n2) - (Work-in-progress) library implementation of a feedforward, backpropagation artificial neural network
 - [Wuelle/deep_thought](https://github.com/Wuelle/deep_thought) - Neural Networks in Rust
 - [MikhailKravets/NeuroFlow](https://github.com/MikhailKravets/NeuroFlow) - Awesome deep learning crate
+- [dvigneshwer/deeprust](https://github.com/dvigneshwer/deeprust) - Machine learning crate in Rust
 
 
 # Graph Model
 
 - [Synerise/cleora](https://github.com/Synerise/cleora) - Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.
+- [Pardoxa/net_ensembles](https://github.com/Pardoxa/net_ensembles) - Rust library for random graph ensembles
 
 
 # Natural Language Processing (model)
@@ -378,6 +380,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Rui_Vieira/random-forests](https://gitlab.com/ruivieira/random-forests) - A Rust library for Random Forests.
 - [sile/randomforest](https://github.com/sile/randomforest) - A random forest implementation in Rust
 - [tomtung/craftml-rs](https://github.com/tomtung/craftml-rs) - A Rust🦀 implementation of CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning
+- [nkaush/naive-bayes-rs](https://github.com/nkaush/naive-bayes-rs) - A Rust library with homemade machine learning models to classify the MNIST dataset. Built in an attempt to get familiar with advanced Rust concepts.
 
 
 # Unsupervised Learning & Clustering Model
@@ -484,6 +487,8 @@ It might want to try `smartcore` or `linfa` for now.
 - [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/), A LEARNING JOURNAL, 2019/12/1, [@algo_luca](https://twitter.com/algo_luca)
 - [9 Companies That Use Rust in Production](https://serokell.io/blog/rust-companies), serokell, 2020/11/18, Gints Dreimanis
 - [Masked Language Model on Wasm, BERT on flontend examples](https://github.com/optim-corp/masked-lm-wasm/), optim-corp/masked-lm-wasm, 2021/8/27, Optim
+- [Serving TensorFlow with Actix-Web](https://github.com/kykosic/actix-tensorflow-example), kykosic/actix-tensorflow-example
+- [Serving PyTorch with Actix-Web](https://github.com/kykosic/actix-pytorch-example), kykosic/actix-pytorch-example
 
 
 ## Discussion
