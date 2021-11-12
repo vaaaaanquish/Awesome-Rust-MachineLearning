@@ -69,6 +69,7 @@ We can find a better way to use Rust for Machine Learning.
 
 - [google/evcxr](https://github.com/google/evcxr) - An evaluation context for Rust.
 - [emakryo/rustdef](https://github.com/emakryo/rustdef) - Jupyter extension for rust.
+- [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
 
 
 ## Graph Plot
@@ -363,6 +364,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 - [taku-y/border](https://github.com/taku-y/border) - Border is a reinforcement learning library in Rust.
 - [NivenT/REnforce](https://github.com/NivenT/REnforce) - Reinforcement learning library written in Rust
+- [edlanglois/relearn](https://github.com/edlanglois/relearn) - Reinforcement learning with Rust
 - [tspooner/rsrl](https://github.com/tspooner/rsrl) - A fast, safe and easy to use reinforcement learning framework in Rust.
 - [milanboers/rurel](https://github.com/milanboers/rurel) - Flexible, reusable reinforcement learning (Q learning) implementation in Rust
 - [Ragnaroek/bandit](https://github.com/Ragnaroek/bandit) - Bandit Algorithms in Rust
@@ -392,8 +394,15 @@ It might want to try `smartcore` or `linfa` for now.
 - [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust.
 - [kno10/rust-kmedoids](https://github.com/kno10/rust-kmedoids) - k-Medoids clustering in Rust with the FasterPAM algorithm
 - [petabi/petal-clustering](https://github.com/petabi/petal-clustering) - DBSCAN and OPTICS clustering algorithms.
+- [savish/dbscan](https://github.com/savish/dbscan) - A naive DBSCAN implementation in Rust
+- [gu18168/DBSCANSD](https://github.com/gu18168/DBSCANSD) - Rust implementation for DBSCANSD, a trajectory clustering algorithm.
+- [lazear/dbscan](https://github.com/lazear/dbscan) - Dependency free implementation of DBSCAN clustering in Rust
+- [whizsid/kddbscan-rs](https://github.com/whizsid/kddbscan-rs) - A rust library inspired by kDDBSCAN clustering algorithm
+- [Sauro98/appr_dbscan_rust](https://github.com/Sauro98/appr_dbscan_rust) - Program implementing the approximate version of DBSCAN introduced by Gan and Tao
+- [quietlychris/density_clusters](https://github.com/quietlychris/density_clusters) - A naive density-based clustering algorithm written in Rust
 - [milesgranger/gap_statistic](https://github.com/milesgranger/gap_statistic) - Dynamically get the suggested clusters in the data for unsupervised learning.
 - [genbattle/rkm](https://github.com/genbattle/rkm) - Generic k-means implementation written in Rust
+- [selforgmap/som-rust](https://github.com/selforgmap/som-rust) - Self Organizing Map (SOM) is a type of Artificial Neural Network (ANN) that is trained using an unsupervised, competitive learning to produce a low dimensional, discretized representation (feature map) of higher dimensional data.
 
 
 # Statistical Model
