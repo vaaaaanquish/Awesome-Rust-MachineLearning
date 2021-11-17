@@ -290,6 +290,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Wuelle/deep_thought](https://github.com/Wuelle/deep_thought) - Neural Networks in Rust
 - [MikhailKravets/NeuroFlow](https://github.com/MikhailKravets/NeuroFlow) - Awesome deep learning crate
 - [dvigneshwer/deeprust](https://github.com/dvigneshwer/deeprust) - Machine learning crate in Rust
+- [millardjn/rusty_sr](Deep learning superresolution in pure rust) - https://github.com/millardjn/rusty_sr
 
 
 # Graph Model
@@ -314,6 +315,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Recommendation
 
+- [PersiaML/PERSIA](https://github.com/PersiaML/PERSIA) - High performance distributed framework for training deep learning recommendation models based on PyTorch.
 - [jackgerrits/vowpalwabbit-rs](https://github.com/jackgerrits/vowpalwabbit-rs) - 🦀🐇 Rusty VowpalWabbit
 - [outbrain/fwumious_wabbit](https://github.com/outbrain/fwumious_wabbit) - Fwumious Wabbit, fast on-line machine learning toolkit written in Rust
 - [hja22/rucommender](https://github.com/hja22/rucommender) - Rust implementation of user-based collaborative filtering
@@ -488,6 +490,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [vaaaaanquish/rust-machine-learning-api-example - The axum example that uses resnet224 to infer images received in base64 and returns the results.](https://github.com/vaaaaanquish/rust-machine-learning-api-example), 2021/9/7, vaaaaanquish
 - [Rust for Machine Learning: Benchmarking Performance in One-shot - A Rust implementation of Siamese Neural Networks for One-shot Image Recognition for benchmarking performance and results](https://utmist.gitlab.io/projects/rust-ml-oneshot/), UofT Machine Intelligence Student Team
 - [Why Wallaroo Moved From Pony To Rust](https://wallarooai.medium.com/why-wallaroo-moved-from-pony-to-rust-292e7339fc34), 2021/8/19, Wallaroo.ai
+- [epwalsh/rust-dl-webserver - Example of serving deep learning models in Rust with batched prediction](https://github.com/epwalsh/rust-dl-webserver), 2021/11/16, epwalsh
 
 
 ### Case study
