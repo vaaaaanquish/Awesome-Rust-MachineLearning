@@ -304,6 +304,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) - The core of tokenizers, written in Rust. Provides an implementation of today's most used tokenizers, with a focus on performance and versatility.
 - [guillaume-be/rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) - Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
+- [sno2/bertml](https://github.com/sno2/bertml) - Use common pre-trained ML models in Deno!
 - [cpcdoy/rust-sbert](https://github.com/cpcdoy/rust-sbert) - Rust port of sentence-transformers (https://github.com/UKPLab/sentence-transformers)
 - [proycon/deepfrog](https://github.com/proycon/deepfrog) - An NLP-suite powered by deep learning
 - [ferristseng/rust-tfidf](https://github.com/ferristseng/rust-tfidf) - Library to calculate TF-IDF
