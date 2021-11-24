@@ -26,9 +26,10 @@ We can find a better way to use Rust for Machine Learning.
     - [Dataframe](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#dataframe)
     - [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing)
     - [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing)
-    - [Graphical Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graphical-model)
+    - [Graphical Modeling](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graphical-modeling)
     - [Interface & Pipeline & AutoML](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface--pipeline--automl)
     - [Workflow](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#workflow)
+    - [GPU](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gpu)
 - [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn)
 - [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics)
 - [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting)
@@ -173,7 +174,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 
 
-## Graphical Model
+## Graphical Modeling
 
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
@@ -199,6 +200,18 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 
 - [substantic/rain](https://github.com/substantic/rain) - Framework for large distributed pipelines
 - [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline
+
+
+## GPU
+
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing extremely fast GPU code fully in Rust.
+- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
+- [termoshtt/accel](https://github.com/termoshtt/accel) - GPGPU Framework for Rust
+- [kmcallister/glassful](https://github.com/kmcallister/glassful) - Rust-like syntax for OpenGL Shading Language
+- [MaikKlein/rlsl](https://github.com/MaikKlein/rlsl) - Rust to SPIR-V compiler
+- [japaric-archived/nvptx](https://github.com/japaric-archived/nvptx) - How to: Run Rust code on your NVIDIA GPU
+- [msiglreith/inspirv-rust](https://github.com/msiglreith/inspirv-rust) - Rust (MIR) → SPIR-V (Shader) compiler
+
 
 
 # Comprehensive (like sklearn)
@@ -474,7 +487,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Rust for Data Science: Tutorial 1](https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j), dev, 2021/8/25, Davide Del Papa
 - [petgraph_review](https://timothy.hobbs.cz/rust-play/petgraph_review.html), 2019/10/11, Timothy Hobbs
 - [Rust for ML. Rust](https://medium.com/tempus-ex/rust-for-ml-fba0421b0959), Medium, Tempus Ex, 2021/8/1, Michael Naquin
-
+- [Adventures in Drone Photogrammetry Using Rust and Machine Learning (Image Segmentation with linfa and DBSCAN)](http://cmoran.xyz/writing/adventures_in_photogrammetry), 2021/11/14, CHRISTOPHER MORAN
 
 
 ### Apply
