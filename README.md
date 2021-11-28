@@ -181,7 +181,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [rs-graph/rs-graph](https://chiselapp.com/user/fifr/repository/rs-graph/doc/release/README.md) - rs-graph is a library for graph algorithms and combinatorial optimization
 - [metamolecular/gamma](https://github.com/metamolecular/gamma) - A graph library for Rust.
 - [purpleprotocol/graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust
-
+- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is a data structure library to generate directed hypergraphs
 
 ## Interface & Pipeline & AutoML
 
