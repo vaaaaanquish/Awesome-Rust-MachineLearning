@@ -13,6 +13,7 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 
 - [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
 - [legalforce-research/vaporetto](https://github.com/legalforce-research/vaporetto) - Vaporetto: Pointwise prediction based tokenizer
+- [Leko/goya](https://github.com/Leko/goya) - Japanese Morphological Analysis written in Rust
 - [sorami/sudachi.rs](https://github.com/sorami/sudachi.rs) - An unofficial Sudachi clone in Rust (incomplete) 🦀
 - [Yasu-umi/sudachiclone-rs](https://github.com/Yasu-umi/sudachiclone-rs) - sudachiclone-rs is a Rust version of Sudachi, a Japanese morphological analyzer.
 - [wareya/notmecab-rs](https://github.com/wareya/notmecab-rs) - notmecab-rs is a very basic mecab clone, designed only to do parsing, not training.
@@ -52,6 +53,7 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [axumとtch-rsでRustの画像認識APIを作る](https://vaaaaaanquish.hatenablog.com/entry/2021/09/07/141531), 2021/9/7, vaaaaaanquish
 - [Rustでグラフをplotするライブラリのまとめ](https://vaaaaaanquish.hatenablog.com/entry/2021/09/24/101607), 2021/9/24, vaaaaanquish
 
+
 ### 実装紹介
 
 - [Rust初心者がRustで全文検索サーバを作ってみた](https://qiita.com/mosuka/items/3517ef4a1eb07fa2661f), 2020/1/27, mosuka
@@ -59,6 +61,7 @@ lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワーク
 - [LinderaをTantivyで使えるようにした](https://qiita.com/mosuka/items/5261c90c8cdc0be90f91), 2020/3/3, mosuka
 - [日本語形態素解析器 SudachiPy の 現状と今後について(Sudachi.rs開発がワークスに譲渡された事が公開)](https://speakerdeck.com/waptech/ri-ben-yu-xing-tai-su-jie-xi-qi-sudachipy-false-xian-zhuang-tojin-hou-nituite?slide=28), 2021/7/6, WAP
 - [Rustによる自然言語処理ツールの実装: 形態素解析器「sudachi.rs」](https://qiita.com/sorami/items/7934fec2074c493c0f7d), 2021/7/7, sorami
+- [WebAssemblyの形態素解析器GoyaをRustで作った](https://blog.leko.jp/post/goya-yet-another-japanese-morphological-analyzer/), 2021/11/27, Leko
 
 
 ### 事例

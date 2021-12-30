@@ -319,6 +319,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [sno2/bertml](https://github.com/sno2/bertml) - Use common pre-trained ML models in Deno!
 - [cpcdoy/rust-sbert](https://github.com/cpcdoy/rust-sbert) - Rust port of sentence-transformers (https://github.com/UKPLab/sentence-transformers)
+- [vongaisberg/gpt3_macro](https://github.com/vongaisberg/gpt3_macro) - Rust macro that uses GPT3 codex to generate code at compiletime
 - [proycon/deepfrog](https://github.com/proycon/deepfrog) - An NLP-suite powered by deep learning
 - [ferristseng/rust-tfidf](https://github.com/ferristseng/rust-tfidf) - Library to calculate TF-IDF
 - [messense/fasttext-rs](https://github.com/messense/fasttext-rs) - fastText Rust binding
