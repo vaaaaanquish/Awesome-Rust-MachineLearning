@@ -303,7 +303,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Wuelle/deep_thought](https://github.com/Wuelle/deep_thought) - Neural Networks in Rust
 - [MikhailKravets/NeuroFlow](https://github.com/MikhailKravets/NeuroFlow) - Awesome deep learning crate
 - [dvigneshwer/deeprust](https://github.com/dvigneshwer/deeprust) - Machine learning crate in Rust
-- [millardjn/rusty_sr](Deep learning superresolution in pure rust) - https://github.com/millardjn/rusty_sr
+- [millardjn/rusty_sr](https://github.com/millardjn/rusty_sr) - Deep learning superresolution in pure rust
 
 
 # Graph Model
