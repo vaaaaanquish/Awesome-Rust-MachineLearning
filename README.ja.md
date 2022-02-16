@@ -9,7 +9,7 @@
 
 ## Natural Language Processing (preprocessing)
 
-lindraはneologdなどの辞書資産が利用できる。sudachi.rsはワークスが巻き取る形になったので今後に期待。Unofficialとなったがsudachiclone-rsというものも存在する。vaporettoはKyTeaの早いやつ。
+linderaはneologdなどの辞書資産が利用できる。sudachi.rsはワークスが巻き取る形になったので今後に期待。Unofficialとなったがsudachiclone-rsというものも存在する。vaporettoはKyTeaの早いやつ。
 
 - [lindera-morphology/lindera](https://github.com/lindera-morphology/lindera) - A morphological analysis library.
 - [legalforce-research/vaporetto](https://github.com/legalforce-research/vaporetto) - Vaporetto: Pointwise prediction based tokenizer
