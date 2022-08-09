@@ -185,7 +185,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 
 ## Interface & Pipeline & AutoML
 
-- [tangramxyz/tangram](https://github.com/tangramxyz/tangram) - Tangram is an all-in-one automated machine learning framework. https://github.com/tangramxyz/tangram
+- [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - Modelfox is an all-in-one automated machine learning framework. https://github.com/modelfoxdotdev/modelfox
 - [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust
 - [mstallmo/tensorrt-rs](https://github.com/mstallmo/tensorrt-rs) - Rust library for running TensorRT accelerated deep learning models
 - [pipehappy1/tensorboard-rs](https://github.com/pipehappy1/tensorboard-rs) - Write TensorBoard events in Rust.
