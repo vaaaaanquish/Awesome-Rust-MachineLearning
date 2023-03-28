@@ -402,6 +402,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [sile/randomforest](https://github.com/sile/randomforest) - A random forest implementation in Rust
 - [tomtung/craftml-rs](https://github.com/tomtung/craftml-rs) - A Rust🦀 implementation of CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning
 - [nkaush/naive-bayes-rs](https://github.com/nkaush/naive-bayes-rs) - A Rust library with homemade machine learning models to classify the MNIST dataset. Built in an attempt to get familiar with advanced Rust concepts.
+- [goldstraw/RustCNN](https://github.com/goldstraw/RustCNN) - A convolutional neural network made from scratch to identify the MNIST dataset.
 
 
 # Unsupervised Learning & Clustering Model
