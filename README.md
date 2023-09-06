@@ -77,7 +77,7 @@ We can find a better way to use Rust for Machine Learning.
 
 It might want to try `plotters` for now.
 
-- [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
+- [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
 - [tiby312/poloto](https://github.com/tiby312/poloto) - A simple 2D plotting library that outputs graphs to SVG that can be styled using CSS.
@@ -130,7 +130,7 @@ See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/
 
 It might want to try `polars` for now. `datafusion` looks good too.
 
-- [ritchie46/polars](https://github.com/ritchie46/polars) - Rust DataFrame library
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Rust DataFrame library
 - [apache/arrow](https://github.com/apache/arrow-rs) - In-memory columnar format, in Rust.
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion and Ballista query engines
 - [milesgranger/black-jack](https://github.com/milesgranger/black-jack) - DataFrame / Series data processing in Rust
