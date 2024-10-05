@@ -80,7 +80,7 @@ It might want to try `plotters` for now.
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
-- [tiby312/poloto](https://github.com/tiby312/poloto) - A simple 2D plotting library that outputs graphs to SVG that can be styled using CSS.
+- [tiby312/poloto](https://github.com/tiby312/poloto-project) - A simple 2D plotting library that outputs graphs to SVG that can be styled using CSS.
 - [askanium/rustplotlib](https://github.com/askanium/rustplotlib) - A pure Rust visualization library inspired by D3.js
 - [SiegeLord/RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - A Rust library for drawing plots, powered by Gnuplot.
 - [saona-raimundo/preexplorer](https://github.com/saona-raimundo/preexplorer) - Externalize easily the plotting process from Rust to gnuplot.
