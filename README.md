@@ -119,11 +119,13 @@ See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [AtheMathmo/rulinalg](https://github.com/AtheMathmo/rulinalg) - A linear algebra library written in Rust
+- [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) - a SIMD accelerated linear algebra library written in Rust
 - [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) - Rust wrapper for ArrayFire
 - [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust)
 - [vbarrielle/sprs](https://github.com/vbarrielle/sprs) - sparse linear algebra library for rust
 - [liborty/rstats](https://github.com/liborty/rstats) - Rust Statistics and Vector Algebra Library
 - [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust binding of NumPy C-API
+- [rust-cv/nshare](https://github.com/rust-cv/nshare) - Conversion between ndarray and nalgebra types
 
 
 ## Dataframe
@@ -192,8 +194,10 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [ehsanmok/tvm-rust](https://github.com/ehsanmok/tvm-rust) - Rust bindings for TVM runtime
 - [vertexclique/orkhon](https://github.com/vertexclique/orkhon) - Orkhon: ML Inference Framework and Server Runtime
 - [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet) - Xaynet represents an agnostic Federated Machine Learning framework to build privacy-preserving AI applications
+- [pykeio/ort](https://github.com/pykeio/ort) - Idiomatic bindings to the C++ onnx runtime library
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+- [robertknight/rten](https://github.com/robertknight/rten) - Small and efficient ONNX inference engine
 - [MegEngine/MegFlow](https://github.com/MegEngine/MegFlow) - Efficient ML solutions for long-tailed demands.
 
 
@@ -307,6 +311,8 @@ It might want to try `smartcore` or `linfa` for now.
 - [dvigneshwer/deeprust](https://github.com/dvigneshwer/deeprust) - Machine learning crate in Rust
 - [millardjn/rusty_sr](https://github.com/millardjn/rusty_sr) - Deep learning superresolution in pure rust
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Strongly typed Deep Learning in Rust
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Flexible and comprehensive Deep Learning in Rust
+- [huggingface/candle](https://github.com/huggingface/candle) - Huggingface created Deep Learning framework in Rust
 
 # Graph Model
 
@@ -364,6 +370,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [rust-cv/hnsw](https://github.com/rust-cv/hnsw) - HNSW ANN from the paper "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs"
+- [rust-cv/hgg](https://github.com/rust-cv/hgg) - HNSW inspired algorithm "Hierarchical Greedy Graphs" - fully deterministic and optimised for areas of computer vision where HNSW would be used
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀 efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀. horasearch.com
 - [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [lerouxrgd/ngt-rs](https://github.com/lerouxrgd/ngt-rs) - Rust wrappers for NGT approximate nearest neighbor search
@@ -564,7 +571,9 @@ It might want to try `smartcore` or `linfa` for now.
 - [Python vs Rust for Simulation](https://www.youtube.com/watch?v=kytvDxxedWY), EuroPython 2019, 2019/7/10, Alisa Dammer
 - [Machine Learning is changing - is Rust the right tool for the job?](https://www.youtube.com/watch?v=odI_LY8AIqo), RustLab 2019, 2019/10/31, Luca Palmieri
 - [Using TensorFlow in Embedded Rust](https://www.youtube.com/watch?v=DUVE86yTfKU), 2020/09/29, Ferrous Systems GmbH, Richard Meadows
+- [Rust London - Data science takeover](https://www.youtube.com/watch?v=EGlilM0Dtu8), 2020/11/26, 4 talks at Rust London, Andraz Tori, Paul Korebitz, Lorenz Schmidt, Daniel McKenna
 - [Writing the Fastest GBDT Library in Rust](https://www.youtube.com/watch?v=D1NAREuicNs), 2021/09/16, RustConf 2021, Isabella Tromba
+- [Creating a Text-To-Speech System in Rust](https://www.youtube.com/watch?v=HiqId_9pysM), 2024/03/28, Rustnation 2024, Daniel McKenna
 
 
 ## PodCast
