@@ -69,7 +69,7 @@ We can find a better way to use Rust for Machine Learning.
 `evcxr` can be handled as Jupyter Kernel or REPL. It is helpful for learning and validation.
 
 - [google/evcxr](https://github.com/google/evcxr) - An evaluation context for Rust.
-- [emakryo/rustdef](https://github.com/emakryo/rustdef) - Jupyter extension for rust.
+- [emakryo/rustdef](https://github.com/emakryo/rustdef) - Jupyter extension for Rust.
 - [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
 
 
@@ -77,15 +77,15 @@ We can find a better way to use Rust for Machine Learning.
 
 It might want to try `plotters` for now.
 
-- [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
+- [38/plotters](https://github.com/38/plotters) - A Rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
 - [tiby312/poloto](https://github.com/tiby312/poloto) - A simple 2D plotting library that outputs graphs to SVG that can be styled using CSS.
 - [askanium/rustplotlib](https://github.com/askanium/rustplotlib) - A pure Rust visualization library inspired by D3.js
 - [SiegeLord/RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - A Rust library for drawing plots, powered by Gnuplot.
 - [saona-raimundo/preexplorer](https://github.com/saona-raimundo/preexplorer) - Externalize easily the plotting process from Rust to gnuplot.
-- [procyon-rs/vega_lite_4.rs](https://github.com/procyon-rs/vega_lite_4.rs) - rust api for vega-lite v4
-    - [procyon-rs/showata](https://github.com/procyon-rs/showata) - A library of to show data (in browser, evcxr_jupyter) as table, chart...
+- [procyon-rs/vega_lite_4.rs](https://github.com/procyon-rs/vega_lite_4.rs) - Rust API for Vega-Lite v4
+- [procyon-rs/showata](https://github.com/procyon-rs/showata) - A library of to show data (in browser, evcxr_jupyter) as table, chart...
 - [coder543/dataplotlib](https://github.com/coder543/dataplotlib) - Scientific plotting library for Rust
 - [shahinrostami/chord_rs](https://github.com/shahinrostami/chord_rs) - Rust crate for creating beautiful interactive Chord Diagrams. Pro version available at https://m8.fyi/chord
 
@@ -94,7 +94,7 @@ ASCII line graph:
 
 - [loony-bean/textplots-rs](https://github.com/loony-bean/textplots-rs) Terminal plotting library for Rust
 - [orhanbalci/rasciigraph](https://github.com/orhanbalci/rasciigraph) Zero dependency Rust crate to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
-- [jakobhellermann/piechart](https://github.com/jakobhellermann/piechart) a rust crate for drawing fancy pie charts in the terminal
+- [jakobhellermann/piechart](https://github.com/jakobhellermann/piechart) a Rust crate for drawing fancy pie charts in the terminal
 - [milliams/plot](https://github.com/milliams/plot) Command-line plotting tool written in Rust
 
 
@@ -120,8 +120,8 @@ See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [AtheMathmo/rulinalg](https://github.com/AtheMathmo/rulinalg) - A linear algebra library written in Rust
 - [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) - Rust wrapper for ArrayFire
-- [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust)
-- [vbarrielle/sprs](https://github.com/vbarrielle/sprs) - sparse linear algebra library for rust
+- [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity implementation in Rust
+- [vbarrielle/sprs](https://github.com/vbarrielle/sprs) - Sparse linear algebra library for Rust
 - [liborty/rstats](https://github.com/liborty/rstats) - Rust Statistics and Vector Algebra Library
 - [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust binding of NumPy C-API
 
@@ -131,7 +131,7 @@ See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/
 It might want to try `polars` for now. `datafusion` looks good too.
 
 - [ritchie46/polars](https://github.com/ritchie46/polars) - Rust DataFrame library
-- [apache/arrow](https://github.com/apache/arrow-rs) - In-memory columnar format, in Rust.
+- [apache/arrow](https://github.com/apache/arrow-rs) - Native Rust implementation of Apache Arrow and Apache Parquet
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion and Ballista query engines
 - [milesgranger/black-jack](https://github.com/milesgranger/black-jack) - DataFrame / Series data processing in Rust
 - [nevi-me/rust-dataframe](https://github.com/nevi-me/rust-dataframe) - A Rust DataFrame implementation, built on Apache Arrow
@@ -148,7 +148,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [rust-cv/ndarray-image](https://github.com/rust-cv/ndarray-image) - Allows conversion between ndarray's types and image's types
 - [rust-cv/cv](https://github.com/rust-cv/cv) - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 - [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
-- [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
+- [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics
 - [atomashpolskiy/rustface](https://github.com/atomashpolskiy/rustface) - Face detection library for the Rust programming language
 
 
@@ -158,12 +158,12 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - 👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike
 - [usamec/cntk-rs](https://github.com/usamec/cntk-rs) - Wrapper around Microsoft CNTK library
 - [stickeritis/sticker](https://github.com/stickeritis/sticker) - A LSTM/Transformer/dilated convolution sequence labeler
-- [tensordot/syntaxdot](https://github.com/tensordot/syntaxdot) - Neural syntax annotator, supporting sequence labeling, lemmatization, and dependency parsing.
+- [tensordot/syntaxdot](https://github.com/tensordot/syntaxdot) - Neural syntax annotator, supporting sequence labeling, lemmatization, and dependency parsing
 - [christophertrml/rs-natural](https://github.com/christophertrml/rs-natural) - Natural Language Processing for Rust
-- [bminixhofer/nnsplit](https://github.com/bminixhofer/nnsplit) - Semantic text segmentation. For sentence boundary detection, compound splitting and more.
+- [bminixhofer/nnsplit](https://github.com/bminixhofer/nnsplit) - Semantic text segmentation. For sentence boundary detection, compound splitting and more
 - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust.
-- [finalfusion/finalfrontier](https://github.com/finalfusion/finalfrontier) - Context-sensitive word embeddings with subwords. In Rust.
-- [bminixhofer/nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Error Correction library written in Rust.
+- [finalfusion/finalfrontier](https://github.com/finalfusion/finalfrontier) - Context-sensitive word embeddings with subwords. In Rust
+- [bminixhofer/nlprule](https://github.com/bminixhofer/nlprule) - A fast, low-resource Natural Language Processing and Error Correction library written in Rust
 - [rth/vtext](https://github.com/rth/vtext) - Simple NLP in Rust with Python bindings
 - [tamuhey/tokenizations](https://github.com/tamuhey/tokenizations) - Robust and Fast tokenizations alignment library for Rust and Python
 - [vgel/treebender](https://github.com/vgel/treebender) - A HDPSG-inspired symbolic natural language parser written in Rust
@@ -253,7 +253,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [benjarison/eval-metrics](https://github.com/benjarison/eval-metrics) - Evaluation metrics for machine learning
     - Many evaluation functions
 - [blue-yonder/vikos](https://github.com/blue-yonder/vikos) - A machine learning library for supervised training of parametrized models
-- [mbillingr/openml-rust](https://github.com/mbillingr/openml-rust) - A rust interface to http://openml.org/
+- [mbillingr/openml-rust](https://github.com/mbillingr/openml-rust) - A Rust interface to http://openml.org/
 
 
 # Comprehensive (Statistics)
@@ -268,10 +268,10 @@ It might want to try `smartcore` or `linfa` for now.
 # Gradient Boosting
 
 - [mesalock-linux/gbdt-rs](https://github.com/mesalock-linux/gbdt-rs) - MesaTEE GBDT-RS : a fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
-- [davechallis/rust-xgboost](https://github.com/davechallis/rust-xgboost) - Rust bindings for XGBoost.
-- [vaaaaanquish/lightgbm-rs](https://github.com/vaaaaanquish/lightgbm-rs) - LightGBM Rust binding
+- [davechallis/rust-xgboost](https://github.com/davechallis/rust-xgboost) - Rust bindings for XGBoost
+- [Mottl/lightgbm3-rs](https://github.com/Mottl/lightgbm3-rs) - Rust bindings for LightGBM
 - [catboost/catboost](https://github.com/catboost/catboost/tree/master/catboost/rust-package) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks (predict only)
-- [Entscheider/stamm](https://github.com/entscheider/stamm) - Generic decision trees for rust
+- [Entscheider/stamm](https://github.com/entscheider/stamm) - Generic decision trees for Rust
 
 
 # Deep Neural Network
@@ -279,34 +279,34 @@ It might want to try `smartcore` or `linfa` for now.
 `Tensorflow bindings` and `PyTorch bindings` are the most common.
 `tch-rs` also has torch vision, which is useful.
 
-- [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
-- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
+- [tensorflow/rust](https://github.com/tensorflow/rust) - Rust bindings for TensorFlow
+- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) -Rust bindings for the C++ API of PyTorch
 - [VasanthakumarV/einops](https://github.com/vasanthakumarv/einops) - Simplistic API for deep learning tensor operations
-- [spearow/juice](https://github.com/spearow/juice) - The Hacker's Machine Learning Engine
-- [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
+- [spearow/juice](https://github.com/spearow/juice) - Machine learning frameworks for hackers
+- [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust
 - [bilal2vec/L2](https://github.com/bilal2vec/L2) - l2 is a fast, Pytorch-style Tensor+Autograd library written in Rust
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
-- [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust
-- [patricksongzy/corgi](https://github.com/patricksongzy/corgi) - A neural network, and tensor dynamic automatic differentiation implementation for Rust.
-- [JonathanWoollett-Light/cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
-- [oliverfunk/darknet-rs](https://github.com/oliverfunk/darknet-rs) - Rust bindings for darknet
-- [jakelee8/mxnet-rs](https://github.com/jakelee8/mxnet-rs) - mxnet for Rust
-- [jramapuram/hal](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning
-- [primitiv/primitiv-rust](https://github.com/primitiv/primitiv-rust) - Rust binding of primitiv
-- [chantera/dynet-rs](https://github.com/chantera/dynet-rs) - The Rust Language Bindings for DyNet
-- [millardjn/alumina](https://github.com/millardjn/alumina) - A deep learning library for rust
-- [jramapuram/hal](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning
+- [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - Machine learning library for Rust
+- [patricksongzy/corgi](https://github.com/patricksongzy/corgi) - A neural network, and tensor dynamic automatic differentiation implementation for Rust
+- [JonathanWoollett-Light/cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust
+- [oliverfunk/darknet-rs](https://github.com/oliverfunk/darknet-rs) - Rust bindings for Darknet
+- [jakelee8/mxnet-rs](https://github.com/jakelee8/mxnet-rs) - Rust bindings for MXNet
+- [jramapuram/hal](https://github.com/jramapuram/hal) - Rust based cross-GPU machine learning
+- [primitiv/primitiv-rust](https://github.com/primitiv/primitiv-rust) - Rust bindings of primitiv
+- [chantera/dynet-rs](https://github.com/chantera/dynet-rs) - The Rust bindings for DyNet
+- [millardjn/alumina](https://github.com/millardjn/alumina) - A deep learning library for Rust
+- [jramapuram/hal](https://github.com/jramapuram/hal) - Rust based cross-GPU machine learning
 - [afck/fann-rs](https://github.com/afck/fann-rs) - Rust wrapper for the Fast Artificial Neural Network library
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 - [c0dearm/mushin](https://github.com/c0dearm/mushin) - Compile-time creation of neural networks
 - [tedsta/deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - Neural networks in Rust
-- [sakex/neat-gru-rust](https://github.com/sakex/neat-gru-rust) - neat-gru
+- [sakex/neat-gru-rust](https://github.com/sakex/neat-gru-rust) - NEAT-GRU
 - [nerosnm/n2](https://github.com/nerosnm/n2) - (Work-in-progress) library implementation of a feedforward, backpropagation artificial neural network
-- [Wuelle/deep_thought](https://github.com/Wuelle/deep_thought) - Neural Networks in Rust
+- [Wuelle/deep_thought](https://github.com/Wuelle/deep_thought) - Neural networks in Rust
 - [MikhailKravets/NeuroFlow](https://github.com/MikhailKravets/NeuroFlow) - Awesome deep learning crate
 - [dvigneshwer/deeprust](https://github.com/dvigneshwer/deeprust) - Machine learning crate in Rust
-- [millardjn/rusty_sr](https://github.com/millardjn/rusty_sr) - Deep learning superresolution in pure rust
-- [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Strongly typed Deep Learning in Rust
+- [millardjn/rusty_sr](https://github.com/millardjn/rusty_sr) - Deep learning superresolution in pure Rust
+- [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Strongly typed deep learning in Rust
 
 # Graph Model
 
@@ -324,21 +324,21 @@ It might want to try `smartcore` or `linfa` for now.
 - [vongaisberg/gpt3_macro](https://github.com/vongaisberg/gpt3_macro) - Rust macro that uses GPT3 codex to generate code at compiletime
 - [proycon/deepfrog](https://github.com/proycon/deepfrog) - An NLP-suite powered by deep learning
 - [ferristseng/rust-tfidf](https://github.com/ferristseng/rust-tfidf) - Library to calculate TF-IDF
-- [messense/fasttext-rs](https://github.com/messense/fasttext-rs) - fastText Rust binding
-- [mklf/word2vec-rs](https://github.com/mklf/word2vec-rs) - pure rust implementation of word2vec
+- [messense/fasttext-rs](https://github.com/messense/fasttext-rs) - fastText Rust bindings
+- [mklf/word2vec-rs](https://github.com/mklf/word2vec-rs) - pure Rust implementation of word2vec
 - [DimaKudosh/word2vec](https://github.com/DimaKudosh/word2vec) - Rust interface to word2vec.
-- [lloydmeta/sloword2vec-rs](https://github.com/lloydmeta/sloword2vec-rs) - A naive (read: slow) implementation of Word2Vec. Uses BLAS behind the scenes for speed.
+- [lloydmeta/sloword2vec-rs](https://github.com/lloydmeta/sloword2vec-rs) - A naive (read: slow) implementation of Word2Vec. Uses BLAS behind the scenes for speed
 
 
 # Recommendation
 
-- [PersiaML/PERSIA](https://github.com/PersiaML/PERSIA) - High performance distributed framework for training deep learning recommendation models based on PyTorch.
+- [PersiaML/PERSIA](https://github.com/PersiaML/PERSIA) - High performance distributed framework for training deep learning recommendation models based on PyTorch
 - [jackgerrits/vowpalwabbit-rs](https://github.com/jackgerrits/vowpalwabbit-rs) - 🦀🐇 Rusty VowpalWabbit
 - [outbrain/fwumious_wabbit](https://github.com/outbrain/fwumious_wabbit) - Fwumious Wabbit, fast on-line machine learning toolkit written in Rust
 - [hja22/rucommender](https://github.com/hja22/rucommender) - Rust implementation of user-based collaborative filtering
 - [maciejkula/sbr-rs](https://github.com/maciejkula/sbr-rs) - Deep recommender systems for Rust
 - [chrisvittal/quackin](https://github.com/chrisvittal/quackin) - A recommender systems framework for Rust
-- [snd/onmf](https://github.com/snd/onmf) - fast rust implementation of online nonnegative matrix factorization as laid out in the paper "detect and track latent factors with online nonnegative matrix factorization"
+- [snd/onmf](https://github.com/snd/onmf) - fast Rust implementation of online nonnegative matrix factorization as laid out in the paper "detect and track latent factors with online nonnegative matrix factorization"
 - [rhysnewell/nymph](https://github.com/rhysnewell/nymph) - Non-Negative Matrix Factorization in Rust
 
 
@@ -346,17 +346,17 @@ It might want to try `smartcore` or `linfa` for now.
 
 ## Full Text Search
 
-- [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a big data search engine.
-- [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
+- [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a big data search engine
+- [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust
 - [neuml/txtai.rs](https://github.com/neuml/txtai.rs) - AI-powered search engine for Rust
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
-- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
+- [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in Rust
+- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers
 - [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [quantleaf/probly-search](https://github.com/quantleaf/probly-search) - A lightweight full-text search library that provides full control over the scoring calculations
 - [https://github.com/andylokandy/simsearch-rs](https://github.com/andylokandy/simsearch-rs) - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
-- [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 
 
@@ -368,23 +368,23 @@ It might want to try `smartcore` or `linfa` for now.
 - [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [lerouxrgd/ngt-rs](https://github.com/lerouxrgd/ngt-rs) - Rust wrappers for NGT approximate nearest neighbor search
 - [granne/granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search
-- [u1roh/kd-tree](https://github.com/u1roh/kd-tree) - k-dimensional tree in Rust. Fast, simple, and easy to use.
+- [u1roh/kd-tree](https://github.com/u1roh/kd-tree) - k-dimensional tree in Rust. Fast, simple, and easy to use
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - vector similarity search engine with extended filtering support
 - [rust-cv/hwt](https://github.com/rust-cv/hwt) - Hamming Weight Tree from the paper "Online Nearest Neighbor Search in Hamming Space"
-- [fulara/kdtree-rust](https://github.com/fulara/kdtree-rust) - kdtree implementation for rust.
+- [fulara/kdtree-rust](https://github.com/fulara/kdtree-rust) - kdtree implementation in Rust
 - [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and lookup
 - [kornelski/vpsearch](https://github.com/kornelski/vpsearch) - C library for finding nearest (most similar) element in a set
-- [petabi/petal-neighbors](https://github.com/petabi/petal-neighbors) - Nearest neighbor search algorithms including a ball tree and a vantage point tree.
+- [petabi/petal-neighbors](https://github.com/petabi/petal-neighbors) - Nearest neighbor search algorithms including a ball tree and a vantage point tree
 - [ritchie46/lsh-rs](https://github.com/ritchie46/lsh-rs) - Locality Sensitive Hashing in Rust with Python bindings
 - [kampersanda/mih-rs](https://github.com/kampersanda/mih-rs) - Rust implementation of multi-index hashing for neighbor searches on 64-bit codes in the Hamming space
 
 
 # Reinforcement Learning
 
-- [taku-y/border](https://github.com/taku-y/border) - Border is a reinforcement learning library in Rust.
+- [taku-y/border](https://github.com/taku-y/border) - Border is a reinforcement learning library in Rust
 - [NivenT/REnforce](https://github.com/NivenT/REnforce) - Reinforcement learning library written in Rust
 - [edlanglois/relearn](https://github.com/edlanglois/relearn) - Reinforcement learning with Rust
-- [tspooner/rsrl](https://github.com/tspooner/rsrl) - A fast, safe and easy to use reinforcement learning framework in Rust.
+- [tspooner/rsrl](https://github.com/tspooner/rsrl) - A fast, safe and easy to use reinforcement learning framework in Rust
 - [milanboers/rurel](https://github.com/milanboers/rurel) - Flexible, reusable reinforcement learning (Q learning) implementation in Rust
 - [Ragnaroek/bandit](https://github.com/Ragnaroek/bandit) - Bandit Algorithms in Rust
 - [MrRobb/gym-rs](https://github.com/mrrobb/gym-rs) - OpenAI Gym bindings for Rust
@@ -393,12 +393,12 @@ It might want to try `smartcore` or `linfa` for now.
 # Supervised Learning Model
 
 - [tomtung/omikuji](https://github.com/tomtung/omikuji) - An efficient implementation of Partitioned Label Trees & its variations for extreme multi-label classification
-- [shadeMe/liblinear-rs](https://github.com/shademe/liblinear-rs) - Rust language bindings for the LIBLINEAR C/C++ library.
-- [messense/crfsuite-rs](https://github.com/messense/crfsuite-rs) - Rust binding to crfsuite
+- [shadeMe/liblinear-rs](https://github.com/shademe/liblinear-rs) - Rust bindings for the LIBLINEAR C/C++ library.
+- [messense/crfsuite-rs](https://github.com/messense/crfsuite-rs) - Rust bindings to crfsuite
 - [ralfbiedert/ffsvm-rust](https://github.com/ralfbiedert/ffsvm-rust) - FFSVM stands for "Really Fast Support Vector Machine"
-- [zenoxygen/bayespam](https://github.com/zenoxygen/bayespam) - A simple bayesian spam classifier written in Rust.
-- [Rui_Vieira/naive-bayesnaive-bayes](https://gitlab.com/ruivieira/naive-bayes) - A Naive Bayes classifier written in Rust.
-- [Rui_Vieira/random-forests](https://gitlab.com/ruivieira/random-forests) - A Rust library for Random Forests.
+- [zenoxygen/bayespam](https://github.com/zenoxygen/bayespam) - A simple bayesian spam classifier written in Rust
+- [Rui_Vieira/naive-bayesnaive-bayes](https://gitlab.com/ruivieira/naive-bayes) - A Naive Bayes classifier written in Rust
+- [Rui_Vieira/random-forests](https://gitlab.com/ruivieira/random-forests) - A Rust library for Random Forests
 - [sile/randomforest](https://github.com/sile/randomforest) - A random forest implementation in Rust
 - [tomtung/craftml-rs](https://github.com/tomtung/craftml-rs) - A Rust🦀 implementation of CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning
 - [nkaush/naive-bayes-rs](https://github.com/nkaush/naive-bayes-rs) - A Rust library with homemade machine learning models to classify the MNIST dataset. Built in an attempt to get familiar with advanced Rust concepts.
@@ -406,27 +406,27 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Unsupervised Learning & Clustering Model
 
-- [frjnn/bhtsne](https://github.com/frjnn/bhtsne) - Barnes-Hut t-SNE implementation written in Rust.
+- [frjnn/bhtsne](https://github.com/frjnn/bhtsne) - Barnes-Hut t-SNE implementation written in Rust
 - [vaaaaanquish/label-propagation-rs](https://github.com/vaaaaanquish/label-propagation-rs) - Label Propagation Algorithm by Rust. Label propagation (LP) is graph-based semi-supervised learning (SSL). LGC and CAMLP have been implemented.
 - [nmandery/extended-isolation-forest](https://github.com/nmandery/extended-isolation-forest) - Rust port of the extended isolation forest algorithm for anomaly detection
-- [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) - Rust library for Self Organising Maps (SOM).
-- [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust.
+- [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) - Rust library for Self Organising Maps (SOM)
+- [diffeo/kodama](https://github.com/diffeo/kodama) - Fast hierarchical agglomerative clustering in Rust
 - [kno10/rust-kmedoids](https://github.com/kno10/rust-kmedoids) - k-Medoids clustering in Rust with the FasterPAM algorithm
 - [petabi/petal-clustering](https://github.com/petabi/petal-clustering) - DBSCAN and OPTICS clustering algorithms.
 - [savish/dbscan](https://github.com/savish/dbscan) - A naive DBSCAN implementation in Rust
-- [gu18168/DBSCANSD](https://github.com/gu18168/DBSCANSD) - Rust implementation for DBSCANSD, a trajectory clustering algorithm.
+- [gu18168/DBSCANSD](https://github.com/gu18168/DBSCANSD) - Rust implementation for DBSCANSD, a trajectory clustering algorithm
 - [lazear/dbscan](https://github.com/lazear/dbscan) - Dependency free implementation of DBSCAN clustering in Rust
-- [whizsid/kddbscan-rs](https://github.com/whizsid/kddbscan-rs) - A rust library inspired by kDDBSCAN clustering algorithm
+- [whizsid/kddbscan-rs](https://github.com/whizsid/kddbscan-rs) - A Rust library inspired by kDDBSCAN clustering algorithm
 - [Sauro98/appr_dbscan_rust](https://github.com/Sauro98/appr_dbscan_rust) - Program implementing the approximate version of DBSCAN introduced by Gan and Tao
 - [quietlychris/density_clusters](https://github.com/quietlychris/density_clusters) - A naive density-based clustering algorithm written in Rust
 - [milesgranger/gap_statistic](https://github.com/milesgranger/gap_statistic) - Dynamically get the suggested clusters in the data for unsupervised learning.
 - [genbattle/rkm](https://github.com/genbattle/rkm) - Generic k-means implementation written in Rust
-- [selforgmap/som-rust](https://github.com/selforgmap/som-rust) - Self Organizing Map (SOM) is a type of Artificial Neural Network (ANN) that is trained using an unsupervised, competitive learning to produce a low dimensional, discretized representation (feature map) of higher dimensional data.
+- [selforgmap/som-rust](https://github.com/selforgmap/som-rust) - Self Organizing Map (SOM) is a type of Artificial Neural Network (ANN) that is trained using an unsupervised, competitive learning to produce a low dimensional, discretized representation (feature map) of higher dimensional data
 
 
 # Statistical Model
 
-- [Redpoll/changepoint](https://gitlab.com/Redpoll/changepoint) - Includes the following change point detection algorithms: Bocpd -- Online Bayesian Change Point Detection Reference. BocpdTruncated -- Same as Bocpd but truncated the run-length distribution when those lengths are unlikely.
+- [Redpoll/changepoint](https://gitlab.com/Redpoll/changepoint) - Includes the following change point detection algorithms: Bocpd -- Online Bayesian Change Point Detection Reference. BocpdTruncated -- Same as Bocpd but truncated the run-length distribution when those lengths are unlikely
 - [krfricke/arima](https://github.com/krfricke/arima) - ARIMA modelling for Rust
 - [Daingun/automatica](https://gitlab.com/daingun/automatica) - Automatic Control Systems Library
 - [rbagd/rust-linearkalman](https://github.com/rbagd/rust-linearkalman) - Kalman filtering and smoothing in Rust
@@ -436,10 +436,10 @@ It might want to try `smartcore` or `linfa` for now.
 # Evolutionary Algorithm
 
 - [martinus/differential-evolution-rs](https://github.com/martinus/differential-evolution-rs) - Generic Differential Evolution for Rust
-- [innoave/genevo](https://github.com/innoave/genevo) - Execute genetic algorithm (GA) simulations in a customizable and extensible way.
+- [innoave/genevo](https://github.com/innoave/genevo) - Execute genetic algorithm (GA) simulations in a customizable and extensible way
 - [Jeffail/spiril](https://github.com/Jeffail/spiril) - Rust library for genetic algorithms
 - [sotrh/rust-genetic-algorithm](https://github.com/sotrh/rust-genetic-algorithm) - Example of a genetic algorithm in Rust and Python
-- [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) - darwin-rs, evolutionary algorithms with rust
+- [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) - darwin-rs, evolutionary algorithms with Rust
 
 
 # Reference
