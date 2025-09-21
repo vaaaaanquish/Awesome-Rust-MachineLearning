@@ -72,6 +72,9 @@ We can find a better way to use Rust for Machine Learning.
 - [emakryo/rustdef](https://github.com/emakryo/rustdef) - Jupyter extension for rust.
 - [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
 
+## Frameworks
+
+- [Rustchain](https://github.com/Michael-A-Kuykendall/rustchain-community) - Rust-native agentic workflow and LLM orchestration framework (LangChain alternative).
 
 ## Graph Plot
 
@@ -182,6 +185,11 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [metamolecular/gamma](https://github.com/metamolecular/gamma) - A graph library for Rust.
 - [purpleprotocol/graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust
 - [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is a data structure library to generate directed hypergraphs
+
+## Inference & Serving 
+
+- [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - Lightweight Rust-based Ollama-compatible inference server with streaming output.
+
 
 ## Interface & Pipeline & AutoML
 
