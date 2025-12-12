@@ -195,6 +195,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [MegEngine/MegFlow](https://github.com/MegEngine/MegFlow) - Efficient ML solutions for long-tailed demands.
+- [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit. Model-agnostic (Gemini, OpenAI, Anthropic, DeepSeek), with multiple agent types, built-in tools, and production features.
 
 
 ## Workflow
