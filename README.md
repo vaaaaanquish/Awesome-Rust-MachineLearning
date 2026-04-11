@@ -111,7 +111,7 @@ Examples:
 
 ## Vector
 
-Most things use `ndarray` or `std::vec`. 
+Most things use `ndarray` or `std::vec`.
 
 Also, look at `nalgebra`. When the size of the matrix is known, it is valid.
 See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/btn1cz/ndarray_vs_nalgebra/)
@@ -143,6 +143,7 @@ It might want to try `polars` for now. `datafusion` looks good too.
 
 It might want to try `image-rs` for now. Algorithms such as linear transformations are implemented in other libraries as well.
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - Pure-Rust vision library (axonml-vision, 741 tests): ResNet, VGG, ViT, BlazeFace, DETR, NanoDet, RetinaFace, depth estimation (DPT, FastDepth), anomaly detection (PatchCore, StudentTeacher), and multimodal biometric encoders (face, iris, voice, fingerprint). Part of the AxonML deep learning framework.
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
     - [image-rs/imageproc](https://github.com/image-rs/imageproc) - Image processing operations
 - [rust-cv/ndarray-image](https://github.com/rust-cv/ndarray-image) - Allows conversion between ndarray's types and image's types
@@ -185,6 +186,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 
 ## Interface & Pipeline & AutoML
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - ONNX import/export (39 operators, opset 17), REST API server with JWT auth and training job management, built-in HTTP TrainingMonitor with live browser dashboards, and a 33-subcommand CLI covering train/eval/convert/quant/serve/deploy workflows. Part of the AxonML pure-Rust deep learning framework.
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - Modelfox is an all-in-one automated machine learning framework. https://github.com/modelfoxdotdev/modelfox
 - [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust
 - [mstallmo/tensorrt-rs](https://github.com/mstallmo/tensorrt-rs) - Rust library for running TensorRT accelerated deep learning models
@@ -205,6 +207,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 
 ## GPU
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - Native CUDA acceleration via 15 PTX kernel modules (elementwise, activations, LayerNorm, cross-entropy, LSTM, attention, Adam, conv im2col, pooling, and more), cuBLAS GEMM, cuDNN convolution, and a CUDA memory pool. No Python, no libtorch. Part of the AxonML pure-Rust deep learning framework.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing extremely fast GPU code fully in Rust.
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
 - [termoshtt/accel](https://github.com/termoshtt/accel) - GPGPU Framework for Rust
@@ -238,6 +241,7 @@ All libraries support the following algorithms.
 
 It might want to try `smartcore` or `linfa` for now.
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - The most complete pure-Rust ML stack: 22 crates, 226K LOC, 2,285 tests. Tensors, autograd, 41 layer types, 9 LLM architectures, vision, audio, text, distributed training (DDP/FSDP/pipeline), ONNX, quantization (Q4/Q5/Q8/1.58-bit ternary), and production tooling. Trained and deployed production models for face recognition, HVAC fault detection, acoustic species identification, and machine translation. No Python, no libtorch.
 - [smartcorelib/smartcore](https://github.com/smartcorelib/smartcore) - SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning.
     - LASSO, Ridge, Random Forest, LU, QR, SVD, EVD, and more metrics
     - https://smartcorelib.org/user_guide/quick_start.html
@@ -279,6 +283,7 @@ It might want to try `smartcore` or `linfa` for now.
 `Tensorflow bindings` and `PyTorch bindings` are the most common.
 `tch-rs` also has torch vision, which is useful.
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - Pure-Rust deep learning framework: 22 crates, 226K LOC, 2,285 tests. Reverse-mode autograd, 41 layer types (Conv1d/2d, LSTM, GRU, MultiHeadAttention, DifferentialAttention, MoE, TernaryLinear, GNN, and more), 5 optimizers, 7 LR schedulers, 7 loss functions, gradient checkpointing, AMP, distributed training (DDP, FSDP, pipeline parallelism), and 9 LLM architectures. No Python, no libtorch, native CUDA.
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [VasanthakumarV/einops](https://github.com/vasanthakumarv/einops) - Simplistic API for deep learning tensor operations
@@ -316,6 +321,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Natural Language Processing (model)
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - Nine LLM architectures in pure Rust: GPT-2, LLaMA (RoPE, GQA, SwiGLU), Mistral (sliding-window attention), Phi, BERT, SSM/Mamba, Hydra (hybrid SSM+attention), Trident (1.58-bit ternary, 16× compression), and Chimera (MoE + DifferentialAttention). BPE tokenizer with dropout, character-level tokenizer. Part of the AxonML deep learning framework.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) - The core of tokenizers, written in Rust. Provides an implementation of today's most used tokenizers, with a focus on performance and versatility.
 - [guillaume-be/rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) - Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
@@ -362,6 +368,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 ## Nearest Neighbor Search
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - IdentityBank in the Aegis biometric suite performs 1:N identification via nearest-neighbor search over L2-normalized embeddings from face, iris, voice, and fingerprint encoders. Part of the AxonML pure-Rust deep learning framework.
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [rust-cv/hnsw](https://github.com/rust-cv/hnsw) - HNSW ANN from the paper "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs"
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀 efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀. horasearch.com
@@ -392,6 +399,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Supervised Learning Model
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - Panoptes suite: eight HVAC fault-detection models (airflow, refrigeration, electrical, water, mechanical, safety, coordination, aggregation) with multi-head prediction across 5/15/30-minute horizons, trained on physics-informed synthetic data. BirdCLEF+ 2026 SED-Net: 2.9M-parameter Sound Event Detection model for 234-class wildlife species identification from mel spectrograms. Both built and trained entirely in pure Rust using AxonML.
 - [tomtung/omikuji](https://github.com/tomtung/omikuji) - An efficient implementation of Partitioned Label Trees & its variations for extreme multi-label classification
 - [shadeMe/liblinear-rs](https://github.com/shademe/liblinear-rs) - Rust language bindings for the LIBLINEAR C/C++ library.
 - [messense/crfsuite-rs](https://github.com/messense/crfsuite-rs) - Rust binding to crfsuite
@@ -406,6 +414,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Unsupervised Learning & Clustering Model
 
+- [AutomataNexus/AxonML](https://github.com/AutomataNexus/AxonML) - Panoptes HVAC suite includes per-equipment autoencoders for unsupervised anomaly scoring. axonml-vision includes PatchCore (memory bank anomaly detection) and StudentTeacher (knowledge distillation for unsupervised anomaly detection). Part of the AxonML pure-Rust deep learning framework.
 - [frjnn/bhtsne](https://github.com/frjnn/bhtsne) - Barnes-Hut t-SNE implementation written in Rust.
 - [vaaaaanquish/label-propagation-rs](https://github.com/vaaaaanquish/label-propagation-rs) - Label Propagation Algorithm by Rust. Label propagation (LP) is graph-based semi-supervised learning (SSL). LGC and CAMLP have been implemented.
 - [nmandery/extended-isolation-forest](https://github.com/nmandery/extended-isolation-forest) - Rust port of the extended isolation forest algorithm for anomaly detection
@@ -458,10 +467,10 @@ It might want to try `smartcore` or `linfa` for now.
 
 ### Introduction
 
-- [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f), Medium, 2016/1/6, Autumn Engineering
+- [About Rust's Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f), Medium, 2016/1/6, Autumn Engineering
 - [Rust vs Python: Technology And Business Comparison](https://www.ideamotive.co/blog/rust-vs-python-technology-and-business-comparison), 2021/3/4, Miłosz Kaczorowski
-- [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries), 2021/2/28, Ritchie Vink 
-- [Polars: The fastest DataFrame library you've never heard of](https://www.analyticsvidhya.com/blog/2021/06/polars-the-fastest-dataframe-library-youve-never-heard-of) 2021/1/19, Analytics Vidhya 
+- [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries), 2021/2/28, Ritchie Vink
+- [Polars: The fastest DataFrame library you've never heard of](https://www.analyticsvidhya.com/blog/2021/06/polars-the-fastest-dataframe-library-youve-never-heard-of) 2021/1/19, Analytics Vidhya
 - [Data Manipulation: Polars vs Rust](https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8), 2021/3/13, Xavier Tao
 - [State of Machine Learning in Rust – Ehsan's Blog](https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/), 2019/5/13, Published by Ehsan
 - [Ritchie Vink, Machine Learning Engineer, writes Polars, one of the fastest DataFrame libraries in Python and Rust](https://www.xomnia.com/post/ritchie-vink-writes-polars-one-of-the-fastest-dataframe-libraries-in-python-and-rust/), Xomnia, 2021/5/11
@@ -480,9 +489,9 @@ It might want to try `smartcore` or `linfa` for now.
 - [Machine Learning in Rust, Logistic Regression](https://medium.com/swlh/machine-learning-in-rust-logistic-regression-74d6743df161), Medium, The Startup, 2021/1/6, [Vlad Orlov](https://volodymyr-orlov.medium.com/)
 - [Machine Learning in Rust, Linear Regression](https://medium.com/swlh/machine-learning-in-rust-linear-regression-edef3fb65f93), Medium, The Startup, 2020/12/16, [Vlad Orlov](https://volodymyr-orlov.medium.com/)
 - [Machine Learning in Rust](https://athemathmo.github.io/2016/03/07/rusty-machine.html), 2016/3/7, James, Examples of LogisticRegressor
-- [Machine Learning and Rust (Part 1): Getting Started!](https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2), Level Up Coding, 2021/1/9, Stefano Bosisio 
-- [Machine Learning and Rust (Part 2): Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9), Level Up Coding, 2021/6/15, Stefano Bosisio 
-- [Machine Learning and Rust (Part 3): Smartcore, Dataframe, and Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60), Level Up Coding, 2021/7/1, Stefano Bosisio 
+- [Machine Learning and Rust (Part 1): Getting Started!](https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2), Level Up Coding, 2021/1/9, Stefano Bosisio
+- [Machine Learning and Rust (Part 2): Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9), Level Up Coding, 2021/6/15, Stefano Bosisio
+- [Machine Learning and Rust (Part 3): Smartcore, Dataframe, and Linear Regression](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60), Level Up Coding, 2021/7/1, Stefano Bosisio
 - [Tensorflow Rust Practical Part 1](https://www.programmersought.com/article/18696273900/), Programmer Sought, 2018
 - [A Machine Learning introduction to ndarray](https://barcelona.rustfest.eu/sessions/machine-learning-ndarray), RustFest 2019, 2019/11/12, [Luca Palmieri](https://github.com/LukeMathWalker)
 - [Simple Linear Regression from scratch in Rust](https://cheesyprogrammer.com/2018/12/13/simple-linear-regression-from-scratch-in-rust/), Web Development, Software Architecture, Algorithms and more, 2018/12/13, philipp
@@ -560,7 +569,7 @@ It might want to try `smartcore` or `linfa` for now.
 ## Movie
 
 - [The /r/playrust Classifier: Real World Rust Data Science](https://www.youtube.com/watch?v=lY10kTcM8ek), RustConf 2016, 2016/10/05, Suchin Gururangan & Colin O'Brien
-- [Building AI Units in Rust](https://www.youtube.com/watch?v=UHFlKAmANJg), FOSSASIA 2018, 2018/3/25, Vigneshwer Dhinakaran 
+- [Building AI Units in Rust](https://www.youtube.com/watch?v=UHFlKAmANJg), FOSSASIA 2018, 2018/3/25, Vigneshwer Dhinakaran
 - [Python vs Rust for Simulation](https://www.youtube.com/watch?v=kytvDxxedWY), EuroPython 2019, 2019/7/10, Alisa Dammer
 - [Machine Learning is changing - is Rust the right tool for the job?](https://www.youtube.com/watch?v=odI_LY8AIqo), RustLab 2019, 2019/10/31, Luca Palmieri
 - [Using TensorFlow in Embedded Rust](https://www.youtube.com/watch?v=DUVE86yTfKU), 2020/09/29, Ferrous Systems GmbH, Richard Meadows
