@@ -557,6 +557,10 @@ It might want to try `smartcore` or `linfa` for now.
         - [https://datacrayon.com/posts/programming/rust-notebooks/preface/](https://datacrayon.com/posts/programming/rust-notebooks/preface/)
 
 
+## Blockchain & Distributed Systems
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) — Blockchain with Proof of Antiquity consensus. Hardware fingerprinting using ML-style feature extraction to reward vintage computing hardware. Supports ARM/RISC-V embedded deployments.
+
 ## Movie
 
 - [The /r/playrust Classifier: Real World Rust Data Science](https://www.youtube.com/watch?v=lY10kTcM8ek), RustConf 2016, 2016/10/05, Suchin Gururangan & Colin O'Brien
