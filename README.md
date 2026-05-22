@@ -491,6 +491,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [petgraph_review](https://timothy.hobbs.cz/rust-play/petgraph_review.html), 2019/10/11, Timothy Hobbs
 - [Rust for ML. Rust](https://medium.com/tempus-ex/rust-for-ml-fba0421b0959), Medium, Tempus Ex, 2021/8/1, Michael Naquin
 - [Adventures in Drone Photogrammetry Using Rust and Machine Learning (Image Segmentation with linfa and DBSCAN)](http://cmoran.xyz/writing/adventures_in_photogrammetry), 2021/11/14, CHRISTOPHER MORAN
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 
 ### Apply
