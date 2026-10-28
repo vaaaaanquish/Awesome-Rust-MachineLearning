@@ -431,6 +431,7 @@ It might want to try `smartcore` or `linfa` for now.
 - [Daingun/automatica](https://gitlab.com/daingun/automatica) - Automatic Control Systems Library
 - [rbagd/rust-linearkalman](https://github.com/rbagd/rust-linearkalman) - Kalman filtering and smoothing in Rust
 - [sanity/pair_adjacent_violators](https://github.com/sanity/pair_adjacent_violators) - An implementation of the Pair Adjacent Violators algorithm for isotonic regression in Rust
+- [caelum0x/lawsynth](https://github.com/caelum0x/lawsynth) - Discovers interpretable governing equations (ODEs) from time-series CSV data, a local-first alternative to symbolic regression and SINDy
 
 
 # Evolutionary Algorithm
